@@ -1,0 +1,39 @@
+% 北京大学博士研究生学位论文开题报告；以 pkuthss 排版。
+% 待作者核实：学号、专业、研究方向以及开题日期。
+\documentclass[UTF8,openany,oneside]{pkuthss}
+\usepackage[backend=biber,style=caspervector,utf8,sorting=none]{biblatex}
+\renewcommand*{\bibfont}{\zihao{5}\linespread{1.27}\selectfont}
+\setlength{\bibitemsep}{3bp}
+\addbibresource{thesis.bib}
+\pkuthssinfo{
+  cthesisname={博士学位论文开题报告}, ethesisname={Doctoral Research Proposal},
+  thesiscover={博士研究生学位论文开题报告},
+  ctitle={面向人机共生的注意力驱动定向交互研究},
+  etitle={Attention-driven Directional Interaction for Human--Machine Symbiosis},
+  cauthor={李景聿}, eauthor={Jingyu Li},
+  studentid={2301111877}, school={计算机学院},
+  cmajor={计算机系统结构}, emajor={Computer Architecture}, direction={
+智能无线网络与移动计算},
+  mentorlines={1}, cmentor={许辰人长聘副教授},
+  ementor={Prof. Chenren Xu},
+  date={二〇二六年九月},
+  ckeywords={具身智能，人机共生，注意力定向交互，眼动追踪，脑电意图解码},
+  ekeywords={Embodied intelligence, Human--machine symbiosis, Attention-aware interaction, Directional interaction, Eye tracking, EEG},
+  degreetype={0}
+}
+\begin{document}
+\frontmatter
+\pagestyle{empty}
+\maketitle
+\cleardoublepage
+\pagestyle{plain}
+\pagenumbering{Roman}
+\include{chap/abs}
+\tableofcontents
+\mainmatter
+\include{chap/chap1}
+\include{chap/chap2}
+\include{chap/chap3}
+\include{chap/chap4}
+\printbibliography[heading=bibintoc,title={参考文献}]
+\end{document}

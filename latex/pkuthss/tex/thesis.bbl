@@ -1,0 +1,302 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{infoled}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=565abea705fd31eae36c411a651a5211}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Jackie\bibnamedelima Junrui},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=25130e7fafa6347d52f24b506010e915}{%
+           family={Landay},
+           familyi={L\bibinitperiod},
+           given={James\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ff700ecdf2daa74f6b595015161e698e}
+      \strng{fullhash}{ff700ecdf2daa74f6b595015161e698e}
+      \strng{fullhashraw}{ff700ecdf2daa74f6b595015161e698e}
+      \strng{bibnamehash}{ff700ecdf2daa74f6b595015161e698e}
+      \strng{authorbibnamehash}{ff700ecdf2daa74f6b595015161e698e}
+      \strng{authornamehash}{ff700ecdf2daa74f6b595015161e698e}
+      \strng{authorfullhash}{ff700ecdf2daa74f6b595015161e698e}
+      \strng{authorfullhashraw}{ff700ecdf2daa74f6b595015161e698e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the ACM Symposium on User Interface Software and Technology}
+      \field{title}{InfoLED: Augmenting LED Indicator Lights for Device Positioning and Communication}
+      \field{userf}{en}
+      \field{year}{2019}
+      \field{dateera}{ce}
+    \endentry
+    \entry{lightanchors}{inproceedings}{}{}
+      \name{author}{5}{}{%
+        {{hash=e408da09ff2ade1e6d40587aca65bee5}{%
+           family={Ahuja},
+           familyi={A\bibinitperiod},
+           given={Karan},
+           giveni={K\bibinitperiod}}}%
+        {{hash=6f555956363d8da402d28c70460c131a}{%
+           family={Pareddy},
+           familyi={P\bibinitperiod},
+           given={Sujeath},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4a67b2cfdea06a9ccec17195cc5498de}{%
+           family={Xiao},
+           familyi={X\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4b13c8307f712c1ae851b00c11c1ff97}{%
+           family={Goel},
+           familyi={G\bibinitperiod},
+           given={Mayank},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e52ad2039fb196a545861357d70928fa}{%
+           family={Harrison},
+           familyi={H\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{3814f8281d51d9d326160fa96fa26cc9}
+      \strng{fullhash}{11074e9eabf5e5c885ab3a90d3f11df1}
+      \strng{fullhashraw}{11074e9eabf5e5c885ab3a90d3f11df1}
+      \strng{bibnamehash}{06055b6875527e22349b3be27e3b0952}
+      \strng{authorbibnamehash}{06055b6875527e22349b3be27e3b0952}
+      \strng{authornamehash}{3814f8281d51d9d326160fa96fa26cc9}
+      \strng{authorfullhash}{11074e9eabf5e5c885ab3a90d3f11df1}
+      \strng{authorfullhashraw}{11074e9eabf5e5c885ab3a90d3f11df1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the ACM Symposium on User Interface Software and Technology}
+      \field{title}{LightAnchors: Appropriating Point Lights for Spatially-Anchored Augmented Reality Interfaces}
+      \field{userf}{en}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{189\bibrangedash 196}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1145/3332165.3347884
+      \endverb
+    \endentry
+    \entry{passivevlc}{inproceedings}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=5be6d0ab3191e4f23b85299fcf0d4e5e}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Xuhai},
+           giveni={X\bibinitperiod}}}%
+        {{hash=c683dca86043405be8fb1d3009bc1604}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=51e5fb9f55c5b5d1edb17aea3861c908}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{83d9d45d3ad197ead3103ea49eec2c1d}
+      \strng{fullhash}{66933a6300800b34b0e1f601ddfe57fe}
+      \strng{fullhashraw}{66933a6300800b34b0e1f601ddfe57fe}
+      \strng{bibnamehash}{66933a6300800b34b0e1f601ddfe57fe}
+      \strng{authorbibnamehash}{66933a6300800b34b0e1f601ddfe57fe}
+      \strng{authornamehash}{83d9d45d3ad197ead3103ea49eec2c1d}
+      \strng{authorfullhash}{66933a6300800b34b0e1f601ddfe57fe}
+      \strng{authorfullhashraw}{66933a6300800b34b0e1f601ddfe57fe}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of ACM MobiCom}
+      \field{title}{PassiveVLC: Enabling Practical Visible Light Backscatter Communication for Battery-free IoT Applications}
+      \field{userf}{en}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+    \entry{turboboost}{inproceedings}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=c84333257e5fef7e25ef4f7a4111077c}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=f94399510b1be6d7fab7d889d00b68d8}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b4dc68630a2cfa03b727ed6c81449837}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{e66cb4446ecc2270b04a4b878e22bbf0}
+      \strng{fullhash}{e3e17fafb6a2552e911e49665b252d8f}
+      \strng{fullhashraw}{e3e17fafb6a2552e911e49665b252d8f}
+      \strng{bibnamehash}{e3e17fafb6a2552e911e49665b252d8f}
+      \strng{authorbibnamehash}{e3e17fafb6a2552e911e49665b252d8f}
+      \strng{authornamehash}{e66cb4446ecc2270b04a4b878e22bbf0}
+      \strng{authorfullhash}{e3e17fafb6a2552e911e49665b252d8f}
+      \strng{authorfullhashraw}{e3e17fafb6a2552e911e49665b252d8f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of ACM SIGCOMM}
+      \field{title}{TurboBoosting Visible Light Backscatter Communication}
+      \field{userf}{en}
+      \field{year}{2020}
+      \field{dateera}{ce}
+    \endentry
+    \entry{pixnet}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=86dcb45a892bc8ccb019b7a4e11bf129}{%
+           family={Perli},
+           familyi={P\bibinitperiod},
+           given={S\bibnamedelima D},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=3d67e0d64db171fe3d0316da574ba45d}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=85582d9eec46bba30a1f9efd15573c05}{%
+           family={Katabi},
+           familyi={K\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{50c2a64e68a35943f5c3af06eb44ba41}
+      \strng{fullhash}{480739f30cf77ccacb67dbaa1905e6c9}
+      \strng{fullhashraw}{480739f30cf77ccacb67dbaa1905e6c9}
+      \strng{bibnamehash}{480739f30cf77ccacb67dbaa1905e6c9}
+      \strng{authorbibnamehash}{480739f30cf77ccacb67dbaa1905e6c9}
+      \strng{authornamehash}{50c2a64e68a35943f5c3af06eb44ba41}
+      \strng{authorfullhash}{480739f30cf77ccacb67dbaa1905e6c9}
+      \strng{authorfullhashraw}{480739f30cf77ccacb67dbaa1905e6c9}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of ACM MobiCom}
+      \field{title}{PixNet: Interference-free Wireless Links Using LCD-camera Pairs}
+      \field{userf}{en}
+      \field{year}{2010}
+      \field{dateera}{ce}
+    \endentry
+    \entry{retroar}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=4d14cf9cf6e7ba89e6bad1d6602f6f33}{%
+           family={李景聿},
+           familyi={李\bibinitperiod}}}%
+        {{hash=8eb255857dfd98d36a6ce7255e9e4737}{%
+           family={陈拓朝},
+           familyi={陈\bibinitperiod}}}%
+        {{hash=e1b549e367a8a5da370da10bae07d17c}{%
+           family={李明哲},
+           familyi={李\bibinitperiod}}}%
+      }
+      \strng{namehash}{b094afd10c1a3edcdd39049259f40d17}
+      \strng{fullhash}{d8aa7d558256663ededbdb02468ccaad}
+      \strng{fullhashraw}{d8aa7d558256663ededbdb02468ccaad}
+      \strng{bibnamehash}{d8aa7d558256663ededbdb02468ccaad}
+      \strng{authorbibnamehash}{d8aa7d558256663ededbdb02468ccaad}
+      \strng{authornamehash}{b094afd10c1a3edcdd39049259f40d17}
+      \strng{authorfullhash}{d8aa7d558256663ededbdb02468ccaad}
+      \strng{authorfullhashraw}{d8aa7d558256663ededbdb02468ccaad}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{电子学报}
+      \field{langid}{chinese}
+      \field{title}{基于可见光逆反射通信的移动增强现实定向交互}
+      \field{userf}{en}
+      \verb{doi}
+      \verb 10.12263/DZXB.20220677
+      \endverb
+    \endentry
+    \entry{echosight}{inproceedings}{}{}
+      \name{author}{5}{}{%
+        {{hash=bff6a3005609a584433f086c631a758f}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jingyu},
+           giveni={J\bibinitperiod}}}%
+        {{hash=740735442d6653cc1c7bdb0ddc867a19}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Qingwen},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=fe12fdc7b2e2c442309cc96fad4a5f54}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Kenuo},
+           giveni={K\bibinitperiod}}}%
+        {{hash=e760d38078aff4a5b24c867aa5178c26}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=670efc413bad1000e0141761ad5add7c}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Chenren},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{c8c13d90dab2c018fefbc0c0ab97d05e}
+      \strng{fullhash}{fdcbe43ed88318beb6105e3ce58e16d2}
+      \strng{fullhashraw}{fdcbe43ed88318beb6105e3ce58e16d2}
+      \strng{bibnamehash}{0d01af9dd90fbfcb5d70785e4e5449cc}
+      \strng{authorbibnamehash}{0d01af9dd90fbfcb5d70785e4e5449cc}
+      \strng{authornamehash}{c8c13d90dab2c018fefbc0c0ab97d05e}
+      \strng{authorfullhash}{fdcbe43ed88318beb6105e3ce58e16d2}
+      \strng{authorfullhashraw}{fdcbe43ed88318beb6105e3ce58e16d2}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the CHI Conference on Human Factors in Computing Systems}
+      \field{title}{EchoSight: Streamlining Bidirectional Virtual-physical Interaction with In-situ Optical Tethering}
+      \field{userf}{en}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1145/3706598.3713925
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
