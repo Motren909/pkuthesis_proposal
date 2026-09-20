@@ -172,7 +172,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortingtemplatename</bcf:key>
-      <bcf:value>none</bcf:value>
+      <bcf:value>ecnyt</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortsets</bcf:key>
@@ -2434,44 +2434,80 @@
     <bcf:citekey order="36" intorder="1">retrovlc</bcf:citekey>
     <bcf:citekey order="37" intorder="1">passivevlc</bcf:citekey>
     <bcf:citekey order="38" intorder="1">turboboost</bcf:citekey>
-    <bcf:citekey order="39" intorder="1">retroar</bcf:citekey>
-    <bcf:citekey order="40" intorder="1">echosight</bcf:citekey>
-    <bcf:citekey order="41" intorder="1">wagnertracking</bcf:citekey>
-    <bcf:citekey order="42" intorder="1">snaptoit</bcf:citekey>
-    <bcf:citekey order="43" intorder="1">bluewave</bcf:citekey>
-    <bcf:citekey order="44" intorder="1">scenariot</bcf:citekey>
-    <bcf:citekey order="45" intorder="1">bleselect</bcf:citekey>
-    <bcf:citekey order="46" intorder="1">iris</bcf:citekey>
-    <bcf:citekey order="47" intorder="1">bishare</bcf:citekey>
-    <bcf:citekey order="48" intorder="1">sketchedreality</bcf:citekey>
-    <bcf:citekey order="49" intorder="1">mecharspace</bcf:citekey>
-    <bcf:citekey order="50" intorder="1">infoled</bcf:citekey>
-    <bcf:citekey order="50" intorder="2">lightanchors</bcf:citekey>
-    <bcf:citekey order="51" intorder="1">retroar</bcf:citekey>
-    <bcf:citekey order="52" intorder="1">echosight</bcf:citekey>
-    <bcf:citekey order="53" intorder="1">jacobgaze</bcf:citekey>
-    <bcf:citekey order="54" intorder="1">everydaygaze</bcf:citekey>
-    <bcf:citekey order="55" intorder="1">eegbcisurvey</bcf:citekey>
-    <bcf:citekey order="56" intorder="1">farwellp300</bcf:citekey>
-    <bcf:citekey order="57" intorder="1">visualauditorybci</bcf:citekey>
-    <bcf:citekey order="58" intorder="1">echosight</bcf:citekey>
-    <bcf:citekey order="59" intorder="1">retroar</bcf:citekey>
-    <bcf:citekey order="60" intorder="1">echosight</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">retromumimo</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">passivevlc_mimo_2024</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">selene_2024</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">retroar</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">echosight</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">xie_joint_vlc_2026</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">wagnertracking</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">snaptoit</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">spatial_ai_2024</bcf:citekey>
+    <bcf:citekey order="48" intorder="1">scenariot</bcf:citekey>
+    <bcf:citekey order="49" intorder="1">bleselect</bcf:citekey>
+    <bcf:citekey order="50" intorder="1">iris</bcf:citekey>
+    <bcf:citekey order="51" intorder="1">bishare</bcf:citekey>
+    <bcf:citekey order="52" intorder="1">sketchedreality</bcf:citekey>
+    <bcf:citekey order="53" intorder="1">mecharspace</bcf:citekey>
+    <bcf:citekey order="54" intorder="1">gaze_pinch</bcf:citekey>
+    <bcf:citekey order="55" intorder="1">gaze_pinch_challenges</bcf:citekey>
+    <bcf:citekey order="56" intorder="1">human_gaze_head_2024</bcf:citekey>
+    <bcf:citekey order="57" intorder="1">gaze_contextual_ai</bcf:citekey>
+    <bcf:citekey order="58" intorder="1">retroar</bcf:citekey>
+    <bcf:citekey order="59" intorder="1">echosight</bcf:citekey>
+    <bcf:citekey order="60" intorder="1">jacobgaze</bcf:citekey>
+    <bcf:citekey order="61" intorder="1">everydaygaze</bcf:citekey>
+    <bcf:citekey order="62" intorder="1">gaze_to_object_mapping</bcf:citekey>
+    <bcf:citekey order="63" intorder="1">gaze_pinch</bcf:citekey>
+    <bcf:citekey order="63" intorder="2">gaze_pinch_challenges</bcf:citekey>
+    <bcf:citekey order="64" intorder="1">farwellp300</bcf:citekey>
+    <bcf:citekey order="65" intorder="1">visualauditorybci</bcf:citekey>
+    <bcf:citekey order="66" intorder="1">eegbcisurvey</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">wang_eeg_eye_2021</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">miao_implicit_eeg_2024</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">yi_hybrid_bci_2024</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">khanna_handover_2025</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">zhu_multimodal_intent_2026</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">retroar</bcf:citekey>
+    <bcf:citekey order="73" intorder="1">echosight</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
-  <bcf:sortingtemplate name="none">
+  <bcf:sortingtemplate name="ecnyt">
     <bcf:sort order="1">
-      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+      <bcf:sortitem order="1">presort</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="2">
-      <bcf:sortitem order="1">intciteorder</bcf:sortitem>
+    <bcf:sort order="2" final="1">
+      <bcf:sortitem order="1">sortkey</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="3">
+      <bcf:sortitem order="1">userf</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="4">
+      <bcf:sortitem order="1">sortname</bcf:sortitem>
+      <bcf:sortitem order="2">author</bcf:sortitem>
+      <bcf:sortitem order="3">editor</bcf:sortitem>
+      <bcf:sortitem order="4">translator</bcf:sortitem>
+      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="6">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sortyear</bcf:sortitem>
+      <bcf:sortitem order="2">year</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="6">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="7">
+      <bcf:sortitem order="1">volume</bcf:sortitem>
+      <bcf:sortitem literal="1" order="2">0</bcf:sortitem>
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
   <bcf:datalist section="0"
-                name="none/global//global/global/global"
+                name="ecnyt/global//global/global/global"
                 type="entry"
-                sortingtemplatename="none"
+                sortingtemplatename="ecnyt"
                 sortingnamekeytemplatename="global"
                 labelprefix=""
                 uniquenametemplatename="global"

@@ -15,7 +15,7 @@
 
 \medskip
 \noindent\textbf{RetroAR：基于手机指向的可见光非接触定向交互系统。}
-RetroAR 面向移动增强现实中的非接触定向交互\parencite{retroar}，利用手机闪光灯、逆反射标签 ViTag 与后置摄像头构成同向光学链路，使用户在指向物体的同时完成目标发现与局部信息读取。其核心贡献包括：
+RetroAR 面向移动增强现实中的非接触定向交互\supercite{retroar}，利用手机闪光灯、逆反射标签 ViTag 与后置摄像头构成同向光学链路，使用户在指向物体的同时完成目标发现与局部信息读取。其核心贡献包括：
 \begin{itemize}
   \item 提出面向商用手机的可见光定向交互机制，以光束方向和摄像头视场共同约束候选对象，将手机指向这一间接注意力转化为物理目标绑定；
   \item 设计消息级动态兴趣区、快速凸包检测、自适应时空混合解码与六自由度位姿估计，使系统能够应对手机运动、视角变化和复杂光学背景；
@@ -25,7 +25,7 @@ RetroAR 面向移动增强现实中的非接触定向交互\parencite{retroar}�
 
 \medskip
 \noindent\textbf{EchoSight：基于智能眼镜的双向近红外直观交互系统。}
-EchoSight 将定向交互入口迁移到智能眼镜\parencite{echosight}，由眼镜端 SightReader 与对象端 EchoTag 建立双向近红外光学链路，使用户在观察目标时获取身份和状态并发送控制数据。其核心贡献包括：
+EchoSight 将定向交互入口迁移到智能眼镜\supercite{echosight}，由眼镜端 SightReader 与对象端 EchoTag 建立双向近红外光学链路，使用户在观察目标时获取身份和状态并发送控制数据。其核心贡献包括：
 \begin{itemize}
   \item 提出佩戴式原位双向交互架构，把对象选择、身份获取和命令传输放入同一现场通道，减少举机、扫码和预先无线连接步骤；
   \item 设计双元件互补光学前端、双波段差分信号、对齐检测与按需唤醒机制，抑制环境光干扰和非目标对象响应；
@@ -43,3 +43,21 @@ Omnisight 拟进一步解决设备方向与真实视线的偏差、“看向”�
   \item 通过固定/可调光束对照、多模态消融和完整任务用户研究，评价目标错选、误触发与漏检、决策及端到端时延、会话恢复、功耗和佩戴负担。
 \end{itemize}
 目前 Omnisight 的总体架构和实验问题已经明确，眼镜原型、脑电同步、融合模型及混合链路协议仍待实现和评估。若 EEG 无法提供足以覆盖采集与佩戴成本的稳定收益，将采用眼动加显式确认作为备选路线，并把这一适用边界作为研究结论。
+\medskip
+\noindent\textbf{本节小结。}眼动适合精确定位关注对象，EEG 可能补充任务相关的时间证据，但现有成果多建立在屏幕目标、强诱发范式或离线分类上。Omnisight 将在 RetroAR/EchoSight 已验证的光学对象绑定基础上检验这种增益：从方向近似走向视线对齐，并以严格基线判断生理融合是否真正降低误触发而不增加不可接受的负担。
+
+表\ref{tab:attention-methods}概括三项工作的递进关系。RetroAR 与 EchoSight 为已完成并发表的前序工作，Omnisight 栏仅表示拟研究和验证的能力，不作为已有性能结论。
+\begin{table}[htbp]
+  \centering\zihao{5}
+  \caption{三项工作在注意力驱动交互链中的定位}
+  \label{tab:attention-methods}
+  \begin{tabular}{llll}
+    \hline
+    工作 & 目标线索与对齐 & 意图处理 & 会话方式 \\
+    \hline
+    RetroAR & 手机指向、光束选物 & 主动持机指向 & 局部可见光链路 \\
+    EchoSight & 眼镜光轴近似观察方向 & 手势确认 & 双向近红外光链路 \\
+    Omnisight & 实测眼动驱动光束 & 眼动/EEG 待验证 & 光选择、无线持续会话 \\
+    \hline
+  \end{tabular}
+\end{table}
