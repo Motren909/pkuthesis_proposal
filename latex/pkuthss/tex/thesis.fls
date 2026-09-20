@@ -889,9 +889,6 @@ INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/uniso
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei6d.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei91.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei89.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei68.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei74.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei9f.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei97.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei90.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei4f.tfm
@@ -899,7 +896,6 @@ INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei62.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei8c.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong5a.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei6e.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei98.tfm
 INPUT ./chap/chap2.tex
 INPUT ./chap/chap2.tex
@@ -911,48 +907,100 @@ INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei72.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei94.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei8d.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei6b.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong94.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong8d.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong88.tfm
+INPUT ./figs/lightanchor.png
+INPUT ./figs/lightanchor.png
+INPUT ./figs/lightanchor.png
+INPUT ./figs/lightanchor.png
+INPUT ./figs/lightanchor.png
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong7c.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong7e.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong8f.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisongff.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong73.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei94.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong6e.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong68.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong95.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong5e.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong6f.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei6f.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong8d.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong73.tfm
+INPUT ./figs/passivevlc.png
+INPUT ./figs/passivevlc.png
+INPUT ./figs/passivevlc.png
+INPUT ./figs/passivevlc.png
+INPUT ./figs/passivevlc.png
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong6e.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong94.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong88.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong5d.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong6b.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/zptmcm7t.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/zptmcm7t.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/zptmcm7m.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/zptmcm7m.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/zptmcm7y.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/zptmcm7y.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/zptmcm7v.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/zptmcm7v.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong95.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong68.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong83.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong97.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong50.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong7d.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong8c.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei82.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei89.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong9c.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong70.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong79.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong6d.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong81.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong82.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong91.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong6c.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong61.tfm
+INPUT ./figs/backvlc.png
+INPUT ./figs/backvlc.png
+INPUT ./figs/backvlc.png
+INPUT ./figs/backvlc.png
+INPUT ./figs/backvlc.png
+INPUT ./figs/li2bc.png
+INPUT ./figs/li2bc.png
+INPUT ./figs/li2bc.png
+INPUT ./figs/li2bc.png
+INPUT ./figs/li2bc.png
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei89.tfm
+INPUT ./figs/snaptoit.png
+INPUT ./figs/snaptoit.png
+INPUT ./figs/snaptoit.png
+INPUT ./figs/snaptoit.png
+INPUT ./figs/snaptoit.png
+INPUT ./figs/scenariot.png
+INPUT ./figs/scenariot.png
+INPUT ./figs/scenariot.png
+INPUT ./figs/scenariot.png
+INPUT ./figs/scenariot.png
+INPUT ./figs/iris.png
+INPUT ./figs/iris.png
+INPUT ./figs/iris.png
+INPUT ./figs/iris.png
+INPUT ./figs/iris.png
+INPUT ./figs/gazepinch.png
+INPUT ./figs/gazepinch.png
+INPUT ./figs/gazepinch.png
+INPUT ./figs/gazepinch.png
+INPUT ./figs/gazepinch.png
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong9a.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei86.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong86.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong6b.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong57.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong6d.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong7d.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei57.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei30.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei81.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei56.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei8b.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/vf/adobe/times/zptmcm7y.vf
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong77.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong5d.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong57.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei83.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong81.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong83.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei6b.tfm
 INPUT ./chap/chap3.tex
 INPUT ./chap/chap3.tex
 OUTPUT chap/chap3.aux
@@ -971,7 +1019,10 @@ INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei78.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei7a.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei60.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei9f.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei68.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei64.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei74.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei65.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei5d.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei8f.tfm
@@ -984,22 +1035,6 @@ INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/vf/adobe/times/zptmcm7m.vf
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/psyro.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/zptmcm7t.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/zptmcm7t.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/zptmcm7m.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/zptmcm7m.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/zptmcm7y.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/zptmcm7y.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/zptmcm7v.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/zptmcm7v.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong9f.tfm
 INPUT ./chap/chap4.tex
 INPUT ./chap/chap4.tex
@@ -1012,11 +1047,6 @@ INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei7e.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei95.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei5e.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai53.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai56.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai4e.tfm
@@ -1024,20 +1054,25 @@ INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai5c.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai89.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai52.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong97.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong96.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai51.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai6d.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai5b.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai65.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai5d.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai66.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai80.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai88.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai76.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai61.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai8d.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai79.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai4f.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai6c.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai74.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikaiff.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai51.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai75.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai76.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai65.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai7a.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai63.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai62.tfm
@@ -1045,27 +1080,23 @@ INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai60.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai54.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai59.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong96.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai6d.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai5b.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai88.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai61.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong20.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai57.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai90.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai58.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai5f.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai73.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai81.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai77.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai8b.tfm
-INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai82.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong9b.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong5a.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai8f.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai6a.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai5e.tfm
 INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai95.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong86.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong20.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai57.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai81.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai77.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai8b.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai82.tfm
 INPUT thesis.aux
 INPUT ./chap/abs.aux
 INPUT ./chap/abs.aux
@@ -1090,6 +1121,11 @@ INPUT c:/Windows/Fonts/simkai.ttf
 INPUT c:/Windows/Fonts/simkai.ttf
 INPUT c:/Windows/Fonts/simkai.ttf
 INPUT c:/Windows/Fonts/simkai.ttf
+INPUT c:/Windows/Fonts/simkai.ttf
+INPUT c:/Windows/Fonts/simkai.ttf
+INPUT c:/Windows/Fonts/simkai.ttf
+INPUT c:/Windows/Fonts/simkai.ttf
+INPUT c:/Windows/Fonts/simkai.ttf
 INPUT c:/Windows/Fonts/simsun.ttc
 INPUT c:/Windows/Fonts/simkai.ttf
 INPUT c:/Windows/Fonts/simkai.ttf
@@ -1122,27 +1158,13 @@ INPUT c:/Windows/Fonts/simkai.ttf
 INPUT c:/Windows/Fonts/simkai.ttf
 INPUT c:/Windows/Fonts/simkai.ttf
 INPUT c:/Windows/Fonts/simkai.ttf
-INPUT c:/Windows/Fonts/simkai.ttf
-INPUT c:/Windows/Fonts/simkai.ttf
-INPUT c:/Windows/Fonts/simkai.ttf
-INPUT c:/Windows/Fonts/simkai.ttf
-INPUT c:/Windows/Fonts/simkai.ttf
-INPUT c:/Windows/Fonts/simkai.ttf
-INPUT c:/Windows/Fonts/simkai.ttf
-INPUT c:/Windows/Fonts/simkai.ttf
-INPUT c:/Windows/Fonts/simkai.ttf
 INPUT c:/Windows/Fonts/simhei.ttf
-INPUT c:/Windows/Fonts/simhei.ttf
-INPUT c:/Windows/Fonts/simsun.ttc
 INPUT c:/Windows/Fonts/simhei.ttf
 INPUT c:/Windows/Fonts/simhei.ttf
 INPUT c:/Windows/Fonts/simhei.ttf
 INPUT c:/Windows/Fonts/simhei.ttf
 INPUT c:/Windows/Fonts/simhei.ttf
 INPUT c:/Windows/Fonts/simsun.ttc
-INPUT c:/Windows/Fonts/simhei.ttf
-INPUT c:/Windows/Fonts/simhei.ttf
-INPUT c:/Windows/Fonts/simhei.ttf
 INPUT c:/Windows/Fonts/simhei.ttf
 INPUT c:/Windows/Fonts/simhei.ttf
 INPUT c:/Windows/Fonts/simhei.ttf

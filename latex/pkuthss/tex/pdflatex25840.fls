@@ -1,0 +1,5 @@
+PWD d:/Thesis/Proposal/latex/pkuthss/tex
+INPUT d:/Program Files/texlive/2026/texmf.cnf
+INPUT d:/Program Files/texlive/2026/texmf-dist/web2c/texmf.cnf
+INPUT d:/Program Files/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT d:/Thesis/Proposal/latex/pkuthss/tex/thesis.tex
