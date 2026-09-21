@@ -2388,7 +2388,7 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">thesis.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">robot_plan_2021</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">fifteenth_five_year_plan_2026</bcf:citekey>
     <bcf:citekey order="2" intorder="1">ai_plus_2025</bcf:citekey>
     <bcf:citekey order="3" intorder="1">ndrc_symbiosis_2025</bcf:citekey>
     <bcf:citekey order="4" intorder="1">us_ai_action_plan_2025</bcf:citekey>
@@ -2466,13 +2466,14 @@
     <bcf:citekey order="66" intorder="1">everydaygaze</bcf:citekey>
     <bcf:citekey order="67" intorder="1">gaze_to_object_mapping</bcf:citekey>
     <bcf:citekey order="68" intorder="1">farwellp300</bcf:citekey>
-    <bcf:citekey order="69" intorder="1">visualauditorybci</bcf:citekey>
-    <bcf:citekey order="70" intorder="1">miao_implicit_eeg_2024</bcf:citekey>
-    <bcf:citekey order="71" intorder="1">eegbcisurvey</bcf:citekey>
-    <bcf:citekey order="72" intorder="1">wang_eeg_eye_2021</bcf:citekey>
-    <bcf:citekey order="73" intorder="1">yi_hybrid_bci_2024</bcf:citekey>
-    <bcf:citekey order="74" intorder="1">khanna_handover_2025</bcf:citekey>
-    <bcf:citekey order="75" intorder="1">zhu_multimodal_intent_2026</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">chen2015filter</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">visualauditorybci</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">miao_implicit_eeg_2024</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">eegbcisurvey</bcf:citekey>
+    <bcf:citekey order="73" intorder="1">wang_eeg_eye_2021</bcf:citekey>
+    <bcf:citekey order="74" intorder="1">yi_hybrid_bci_2024</bcf:citekey>
+    <bcf:citekey order="75" intorder="1">khanna_handover_2025</bcf:citekey>
+    <bcf:citekey order="76" intorder="1">zhu_multimodal_intent_2026</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

@@ -118,7 +118,7 @@
 
 前三类工作分别解决对象发现、空间选择和状态维持，却常要求用户在各阶段重复拍摄、列表选择或身份确认，因而没有形成连续、直观的交互。注意力驱动的直观交互则利用用户自然产生的手部指向、头向与注视作为共同空间线索，使系统围绕同一关注对象完成候选筛选、身份绑定和后续控制。现有研究通常采用“注意定位、显式确认”的分工：Gaze+Pinch,如\figref{fig:gazepinch}，以凝视快速选择、以捏合确认操作\supercite{gaze_pinch,gaze_pinch_challenges}；Schreiter \etal 表明，头向适合粗粒度缩小范围，视线适合精细修正落点\supercite{human_gaze_head_2024}；Wilson \etal 则进一步利用注视确定响应对象，但仍需结合任务上下文区分自然观察与操作意图\supercite{gaze_contextual_ai}。因此，注意力线索能够把前三类工作串联为更自然的端到端过程，但不能取代必要的确认与意图判断。
 
-\begin{figure}[htbp]
+\begin{figure}[h]
   \centering
   \includegraphics[width=0.95\textwidth]{figs/gazepinch.png}
   \caption{注视驱动的注意力选择原理示意}
@@ -134,39 +134,23 @@
 
 Jacob et al. 早期使用视线指定界面元素，并提出眼睛同时承担观察与输入功能所导致的“米达斯接触”问题\supercite{jacobgaze}。此后，眼动交互形成了“视线定位目标、其他模态确认动作”的基本思路。Gaze+Pinch\supercite{gaze_pinch} 以凝视完成快速定位、以捏合完成选择和操纵；后续研究进一步从精度、舒适度、反馈和误触发等方面总结了这种眼手分工的设计边界\supercite{gaze_pinch_challenges}。这类方法能够避免把每次注视直接解释为命令，但意图最终仍由手势、按键或语音等显式动作表达，眼动主要承担空间指向功能。眼动从界面选择扩展到现实环境后，还需要解决测量与对象映射问题。Feit et al. 表明，眼动准确度和精密度会随用户、屏幕区域及标定状态变化，并限制可可靠区分的目标尺寸与间距\supercite{everydaygaze}；Liu et al. 对 gaze-to-object 算法的比较进一步说明，二维注视点到三维现实物体的归属并非简单的相交判断\supercite{gaze_to_object_mapping}。因此，现有眼动工作已经较好地回答了“以视线选择哪个候选目标”，但多数研究将选择结果交给已知界面或预建模场景处理，并不同时解决现实对象的数字身份识别和后续通信。
 
-\begin{figure}[htbp]
+\begin{figure}[h]
   \centering
-  \fbox{\parbox[c][4.0cm][c]{0.86\textwidth}{\centering
-  \textbf{图片占位：从眼动测量到现实对象映射}\\[0.6em]
-  建议内容：眼球坐标、头部坐标与世界坐标的转换链，\\
-  标出标定误差、设备滑移、深度歧义和相邻目标混淆。}}
-  \caption{眼动驱动现实目标定位中的坐标映射与误差来源（占位图）}
-  \label{fig:gaze-to-object-error-chain}
+  \includegraphics[width=0.95\textwidth]{figs/fbcca.png}
+  \caption{基于视觉刺激脑电的输入系统原理}
+  \label{fig:ssvep}
 \end{figure}
 
-脑电图（Electroencephalography, EEG）具有无创和时间分辨率高的特点，相关工作可分为诱发式选择和自发式意图识别。诱发式方法通过人为刺激建立神经响应与目标之间的对应关系。Farwell et al. 的 P300 拼写器利用用户关注低概率刺激时产生的事件相关电位确定字符\supercite{farwellp300}；SSVEP 方法则依据注视周期刺激所产生的稳态频率响应区分目标\supercite{visualauditorybci}。这类方法的目标集合和神经响应关系明确，适合离散选择，但依赖闪烁刺激、重复试次或时间锁定过程，其所识别的是对预设刺激的选择，而不是自然观察过程中自发形成的操作意图。
+脑电图（Electroencephalography, EEG）具有无创和时间分辨率高的特点，相关工作可分为诱发式选择和自发式意图识别。诱发式方法通过人为刺激建立神经响应与目标之间的对应关系。Farwell et al. 的 P300 拼写器利用用户关注低概率刺激时产生的事件相关电位确定字符\supercite{farwellp300}；SSVEP 方法\supercite{chen2015filter}则依据注视周期刺激所产生的稳态频率响应区分目标\supercite{visualauditorybci}。这类方法的目标集合和神经响应关系明确，适合离散选择，但依赖闪烁刺激、重复试次或时间锁定过程，其所识别的是对预设刺激的选择，而不是自然观察过程中自发形成的操作意图。
 自发式方法不依赖目标持续闪烁，而是从任务过程中产生的脑电活动推断用户状态。Miao et al. 对浏览、搜索和处置等五类隐式交互意图进行多任务建模，说明 EEG 能够提供不同任务状态之间的区分信息\supercite{miao_implicit_eeg_2024}。相较于诱发式范式，这一路线更接近自然交互中的“是否准备行动”，但现有研究多在受控界面和实验室设备上完成离线分类。可穿戴 EEG 还普遍受到低信噪比、非平稳性、个体差异和运动伪迹影响\supercite{eegbcisurvey}，因而仅凭脑电较难同时确定用户所面对的空间目标及其现实身份。
 
-\begin{figure}[htbp]
+\begin{figure}[h]
   \centering
-  \fbox{\parbox[c][4.0cm][c]{0.86\textwidth}{\centering
-  \textbf{图片占位：脑电意图识别范式比较}\\[0.6em]
-  建议内容：P300、SSVEP 与自发 EEG 的刺激方式、时间窗口和输出，\\
-  对比目标可解释性、响应速度、训练需求与自然交互适用性。}}
-  \caption{诱发式与自发式 EEG 意图识别范式（占位图）}
-  \label{fig:eeg-intention-paradigms}
+  \includegraphics[width=0.95\textwidth]{figs/handover.png}
+  \caption{眼动脑电混合具身协作原理示意}
+  \label{fig:handover}
 \end{figure}
 
-由于眼动擅长表征空间注意，而 EEG 可能包含任务相关的神经活动，两者具有天然互补性。Wang et al. 通过决策级融合组合眼动的空间、行为特征与 EEG，对多类人机交互意图的识别优于单一模态\supercite{wang_eeg_eye_2021}。Yi et al. 将 P300 与瞳孔、视线响应输入双流多尺度网络，用于意识障碍患者的是/否通信，表明眼动信息可以补充脑电响应；不过，该任务仍由强刺激和二选一答案限定\supercite{yi_hybrid_bci_2024}。这些工作证明了眼动与 EEG 融合的可行性，但主要面向受控界面中的离散输出。近期研究开始把多模态意图识别扩展到人机协作和更丰富的交互类别。Khanna et al. 在人机交接任务中比较 EEG、视线和手部运动，发现视线能够更早、更准确地预测交接意图，而 EEG 并未在所有条件下带来同等增益\supercite{khanna_handover_2025}。Zhu et al. 进一步通过跨模态注意和动态集成融合 EEG、眼动与手势，实现六类交互意图分类\supercite{zhu_multimodal_intent_2026}。前者说明不同模态的贡献取决于具体任务，后者则将融合目标由二元选择扩展到多类意图；但两者的输出仍止于对既定任务标签的识别，没有继续回答意图所指向的现实对象如何被发现、验证并建立交互链路。
+由于眼动擅长表征空间注意，而 EEG 可能包含事件驱动的神经活动，两者具有天然互补性。Wang et al. 通过决策级融合组合眼动的空间、行为特征与 EEG，对多类人机交互意图的识别优于单一模态\supercite{wang_eeg_eye_2021}。Yi et al. 将 P300 与瞳孔、视线响应输入双流多尺度网络，用于意识障碍患者的是/否通信，表明眼动信息可以补充脑电响应；不过，该任务仍由强刺激和二选一答案限定\supercite{yi_hybrid_bci_2024}。这些工作证明了眼动与 EEG 融合的可行性，但主要面向受控界面中的离散输出。近期研究开始把多模态意图识别扩展到人机协作和更丰富的交互类别。Khanna et al. 在人机交接任务中比较 EEG、视线和手部运动，发现视线能够更早、更准确地预测交接意图，而 EEG 并未在所有条件下带来同等增益\supercite{khanna_handover_2025}。Zhu et al. 进一步通过跨模态注意和动态集成融合 EEG、眼动与手势，实现六类交互意图分类\supercite{zhu_multimodal_intent_2026}。前者说明不同模态的贡献取决于具体任务，后者则将融合目标由二元选择扩展到多类意图；但两者的输出仍止于对既定任务标签的识别，没有继续回答意图所指向的现实对象如何被发现、验证并建立交互链路。
 
 现有研究已由眼动目标选择、诱发式脑机选择发展到自发 EEG 与多模态意图分类，为识别关注目标和任务状态提供了基础。然而，这些工作大多以屏幕元素、预设刺激或既定协作任务为对象，尚未把自然注意、现实对象身份和通信会话贯通。Omnisight 在其基础上进一步面向物理多对象环境，以视线驱动光学对象绑定，以眼动与 EEG 区分观察和操作，并把识别结果落实到同一目标的可持续交互。
-
-\begin{figure}[htbp]
-  \centering
-  \fbox{\parbox[c][4.2cm][c]{0.86\textwidth}{\centering
-  \textbf{图片占位：相关工作与 Omnisight 的能力对比}\\[0.6em]
-  建议内容：眼动选择、诱发式 EEG、自发式 EEG、多模态分类与 Omnisight，\\
-  对比空间目标、自然意图、物理身份和持续链路四项能力。}}
-  \caption{眼动与脑电意图识别研究及其与 Omnisight 的关系（占位图）}
-  \label{fig:gaze-eeg-intention}
-\end{figure}

@@ -19,43 +19,42 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
-    \entry{robot_plan_2021}{online}{}{}
+    \entry{fifteenth_five_year_plan_2026}{online}{}{}
       \name{author}{1}{}{%
-        {{hash=ccb3ede8ddd99ae43345806609ed6929}{%
-           family={{工业和信息化部等十五部门}},
-           familyi={工\bibinitperiod}}}%
+        {{hash=80deb4b404e1f68f97af6078b28defac}{%
+           family={{中华人民共和国国家发展和改革委员会}},
+           familyi={中\bibinitperiod}}}%
       }
       \list{language}{1}{%
         {chinese}%
       }
-      \strng{namehash}{ccb3ede8ddd99ae43345806609ed6929}
-      \strng{fullhash}{ccb3ede8ddd99ae43345806609ed6929}
-      \strng{fullhashraw}{ccb3ede8ddd99ae43345806609ed6929}
-      \strng{bibnamehash}{ccb3ede8ddd99ae43345806609ed6929}
-      \strng{authorbibnamehash}{ccb3ede8ddd99ae43345806609ed6929}
-      \strng{authornamehash}{ccb3ede8ddd99ae43345806609ed6929}
-      \strng{authorfullhash}{ccb3ede8ddd99ae43345806609ed6929}
-      \strng{authorfullhashraw}{ccb3ede8ddd99ae43345806609ed6929}
+      \strng{namehash}{80deb4b404e1f68f97af6078b28defac}
+      \strng{fullhash}{80deb4b404e1f68f97af6078b28defac}
+      \strng{fullhashraw}{80deb4b404e1f68f97af6078b28defac}
+      \strng{bibnamehash}{80deb4b404e1f68f97af6078b28defac}
+      \strng{authorbibnamehash}{80deb4b404e1f68f97af6078b28defac}
+      \strng{authornamehash}{80deb4b404e1f68f97af6078b28defac}
+      \strng{authorfullhash}{80deb4b404e1f68f97af6078b28defac}
+      \strng{authorfullhashraw}{80deb4b404e1f68f97af6078b28defac}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{21}
       \field{langid}{chinese}
-      \field{month}{12}
-      \field{title}{\textquotedblleft{}十四五\textquotedblright{}机器人产业发展规划}
-      \field{urlday}{20}
+      \field{month}{3}
+      \field{title}{中华人民共和国国民经济和社会发展第十五个五年规划纲要}
+      \field{urlday}{22}
       \field{urlmonth}{9}
       \field{urlyear}{2026}
       \field{userf}{zh}
-      \field{year}{2021}
+      \field{year}{2026}
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2021/art_14c785d5a1124f75900363a0f45d9bbe.html
+      \verb https://www.ndrc.gov.cn/fggz/fzzlgh/gjfzgh/202603/U020260317369114704096.pdf
       \endverb
       \verb{url}
-      \verb https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2021/art_14c785d5a1124f75900363a0f45d9bbe.html
+      \verb https://www.ndrc.gov.cn/fggz/fzzlgh/gjfzgh/202603/U020260317369114704096.pdf
       \endverb
     \endentry
     \entry{ai_plus_2025}{online}{}{}
@@ -2486,6 +2485,58 @@
       \verb{doi}
       \verb 10.1016/0013-4694(88)90149-6
       \endverb
+    \endentry
+    \entry{chen2015filter}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=5c254500e19d5a78c3d5a502e541528f}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xiaogang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=7a566ae0f28e0eb3ca5a86711611b2c6}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yijun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5b30c8aab73ca24786b1817893f677e3}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Shangkai},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0867f58a755f5e9b488fd287e06722d7}{%
+           family={Jung},
+           familyi={J\bibinitperiod},
+           given={Tzyy-Ping},
+           giveni={T\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=b77c71e31051b470efc05d6a173ad735}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Xiaorong},
+           giveni={X\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{be0e8a5db7baf5baf8a3fe69a8f45e98}
+      \strng{fullhash}{0a3095a9923db7134f7ece17746e4187}
+      \strng{fullhashraw}{0a3095a9923db7134f7ece17746e4187}
+      \strng{bibnamehash}{2fa9d9474b8202923235850ddb3e3325}
+      \strng{authorbibnamehash}{2fa9d9474b8202923235850ddb3e3325}
+      \strng{authornamehash}{be0e8a5db7baf5baf8a3fe69a8f45e98}
+      \strng{authorfullhash}{0a3095a9923db7134f7ece17746e4187}
+      \strng{authorfullhashraw}{0a3095a9923db7134f7ece17746e4187}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of neural engineering}
+      \field{number}{4}
+      \field{title}{Filter bank canonical correlation analysis for implementing a high-speed SSVEP-based brain--computer interface}
+      \field{userf}{en}
+      \field{volume}{12}
+      \field{year}{2015}
+      \field{pages}{046008}
+      \range{pages}{1}
     \endentry
     \entry{visualauditorybci}{article}{}{}
       \name{author}{4}{}{%

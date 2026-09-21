@@ -19,43 +19,42 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
-    \entry{robot_plan_2021}{online}{}{}
+    \entry{fifteenth_five_year_plan_2026}{online}{}{}
       \name{author}{1}{}{%
-        {{hash=ccb3ede8ddd99ae43345806609ed6929}{%
-           family={{工业和信息化部等十五部门}},
-           familyi={工\bibinitperiod}}}%
+        {{hash=80deb4b404e1f68f97af6078b28defac}{%
+           family={{中华人民共和国国家发展和改革委员会}},
+           familyi={中\bibinitperiod}}}%
       }
       \list{language}{1}{%
         {chinese}%
       }
-      \strng{namehash}{ccb3ede8ddd99ae43345806609ed6929}
-      \strng{fullhash}{ccb3ede8ddd99ae43345806609ed6929}
-      \strng{fullhashraw}{ccb3ede8ddd99ae43345806609ed6929}
-      \strng{bibnamehash}{ccb3ede8ddd99ae43345806609ed6929}
-      \strng{authorbibnamehash}{ccb3ede8ddd99ae43345806609ed6929}
-      \strng{authornamehash}{ccb3ede8ddd99ae43345806609ed6929}
-      \strng{authorfullhash}{ccb3ede8ddd99ae43345806609ed6929}
-      \strng{authorfullhashraw}{ccb3ede8ddd99ae43345806609ed6929}
+      \strng{namehash}{80deb4b404e1f68f97af6078b28defac}
+      \strng{fullhash}{80deb4b404e1f68f97af6078b28defac}
+      \strng{fullhashraw}{80deb4b404e1f68f97af6078b28defac}
+      \strng{bibnamehash}{80deb4b404e1f68f97af6078b28defac}
+      \strng{authorbibnamehash}{80deb4b404e1f68f97af6078b28defac}
+      \strng{authornamehash}{80deb4b404e1f68f97af6078b28defac}
+      \strng{authorfullhash}{80deb4b404e1f68f97af6078b28defac}
+      \strng{authorfullhashraw}{80deb4b404e1f68f97af6078b28defac}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{21}
       \field{langid}{chinese}
-      \field{month}{12}
-      \field{title}{\textquotedblleft{}十四五\textquotedblright{}机器人产业发展规划}
-      \field{urlday}{20}
+      \field{month}{3}
+      \field{title}{中华人民共和国国民经济和社会发展第十五个五年规划纲要}
+      \field{urlday}{22}
       \field{urlmonth}{9}
       \field{urlyear}{2026}
       \field{userf}{zh}
-      \field{year}{2021}
+      \field{year}{2026}
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2021/art_14c785d5a1124f75900363a0f45d9bbe.html
+      \verb https://www.ndrc.gov.cn/fggz/fzzlgh/gjfzgh/202603/U020260317369114704096.pdf
       \endverb
       \verb{url}
-      \verb https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2021/art_14c785d5a1124f75900363a0f45d9bbe.html
+      \verb https://www.ndrc.gov.cn/fggz/fzzlgh/gjfzgh/202603/U020260317369114704096.pdf
       \endverb
     \endentry
     \entry{ai_plus_2025}{online}{}{}
@@ -2831,6 +2830,7 @@
       \endverb
     \endentry
   \enddatalist
+  \missing{chen2015filter}
 \endrefsection
 \endinput
 

@@ -1,10 +1,10 @@
 % 以下条目根据 Proposal/foundation 的原文及参考开题报告的文献表整理。
-@online{robot_plan_2021,
-  author = {{工业和信息化部等十五部门}},
-  title = {“十四五”机器人产业发展规划},
-  date = {2021-12-21},
-  url = {https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2021/art_14c785d5a1124f75900363a0f45d9bbe.html},
-  urldate = {2026-09-20},
+@online{fifteenth_five_year_plan_2026,
+  author = {{中华人民共和国国家发展和改革委员会}},
+  title = {中华人民共和国国民经济和社会发展第十五个五年规划纲要},
+  date = {2026-03},
+  url = {https://www.ndrc.gov.cn/fggz/fzzlgh/gjfzgh/202603/U020260317369114704096.pdf},
+  urldate = {2026-09-22},
   langid = {chinese},
   language = {chinese}
 }
@@ -13,7 +13,7 @@
   author = {{国务院}},
   title = {关于深入实施“人工智能+”行动的意见},
   date = {2025-08-21},
-  number = {国发〔2025〕11号},
+  note = {国发〔2025〕11号},
   url = {https://www.gov.cn/zhengce/content/202508/content_7037861.htm},
   urldate = {2026-09-20},
   langid = {chinese},
@@ -56,6 +56,33 @@
   language = {chinese}
 }
 
+@online{ifr_world_robotics_2025,
+  author = {{International Federation of Robotics}},
+  title = {Global Robot Demand in Factories Doubles Over 10 Years},
+  date = {2025-09-25},
+  url = {https://ifr.org/ifr-press-releases/news/global-robot-demand-in-factories-doubles-over-10-years},
+  urldate = {2026-09-21}
+}
+
+@report{stanford_ai_index_2026,
+  author = {Sajadieh, Sha and Fattorini, Loredana and Perrault, Raymond and Gil, Yolanda and Parli, Vanessa and Santarlasci, Lapo and Pava, Juan and Maslej, Nestor and others},
+  title = {The {AI} Index 2026 Annual Report},
+  type = {Annual Report},
+  institution = {Stanford Institute for Human-Centered Artificial Intelligence},
+  date = {2026-04},
+  doi = {10.48550/arXiv.2606.15708},
+  url = {https://hai.stanford.edu/assets/files/ai_index_report_2026.pdf},
+  urldate = {2026-09-21}
+}
+
+@online{ifr_collaborative_2024,
+  author = {{International Federation of Robotics}},
+  title = {Collaborative Robots: How Robots Work alongside Humans},
+  date = {2024-12-04},
+  url = {https://ifr.org/ifr-press-releases/news/how-robots-work-alongside-humans},
+  urldate = {2026-09-21}
+}
+
 @online{xinhua_embodied_2026,
   author = {魏梦佳 and 阳娜},
   title = {中国具身智能迎来规模化应用关键窗口期},
@@ -85,28 +112,36 @@
 }
 
 @inproceedings{passivevlc,
-  author = {Xu, Xuhai and Shen, Y and Yang, J and others},
+  author = {Xu, Xieyang and Shen, Yang and Yang, Junrui and Xu, Chenren and Shen, Guobin and Chen, Guojun and Ni, Yunzhe},
   title = {PassiveVLC: Enabling Practical Visible Light Backscatter Communication for Battery-free IoT Applications},
-  booktitle = {Proceedings of ACM MobiCom},
-  date = {2017}
+  booktitle = {Proceedings of the 23rd Annual International Conference on Mobile Computing and Networking},
+  pages = {180--192},
+  date = {2017},
+  doi = {10.1145/3117811.3117843}
 }
 @inproceedings{turboboost,
-  author = {Wu, Y and Wang, P and Xu, K and others},
+  author = {Wu, Yue and Wang, Purui and Xu, Kenuo and Feng, Lilei and Xu, Chenren},
   title = {TurboBoosting Visible Light Backscatter Communication},
-  booktitle = {Proceedings of ACM SIGCOMM},
-  date = {2020}
+  booktitle = {Proceedings of the Annual Conference of the ACM Special Interest Group on Data Communication on the Applications, Technologies, Architectures, and Protocols for Computer Communication},
+  pages = {186--197},
+  date = {2020},
+  doi = {10.1145/3387514.3406229}
 }
 @inproceedings{pixnet,
-  author = {Perli, S D and Ahmed, N and Katabi, D},
+  author = {Perli, Samuel David and Ahmed, Nabeel and Katabi, Dina},
   title = {PixNet: Interference-free Wireless Links Using LCD-camera Pairs},
-  booktitle = {Proceedings of ACM MobiCom},
-  date = {2010}
+  booktitle = {Proceedings of the 16th Annual International Conference on Mobile Computing and Networking},
+  pages = {137--148},
+  date = {2010},
+  doi = {10.1145/1859995.1860012}
 }
 @inproceedings{infoled,
-  author = {Yang, Jackie Junrui and Landay, James A},
+  author = {Yang, Jackie (Junrui) and Landay, James A.},
   title = {InfoLED: Augmenting LED Indicator Lights for Device Positioning and Communication},
-  booktitle = {Proceedings of the ACM Symposium on User Interface Software and Technology},
-  date = {2019}
+  booktitle = {Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology},
+  pages = {175--187},
+  date = {2019},
+  doi = {10.1145/3332165.3347954}
 }
 @inproceedings{lightanchors,
   author = {Ahuja, Karan and Pareddy, Sujeath and Xiao, Robert and Goel, Mayank and Harrison, Chris},
@@ -127,30 +162,32 @@
 }
 
 @inproceedings{bluewave,
-  author = {de Freitas, Adrian A. and Nebeling, Michael and Ranithangam, Akshaye Shreenithi Kirupa Karrie and Dey, Anind K.},
-  title = {Bluewave: Enabling Opportunistic Context Sharing via Bluetooth Device Names},
-  booktitle = {Proceedings of the 8th ACM SIGCHI Symposium on Engineering Interactive Computing Systems},
-  pages = {38--49},
-  date = {2016}
+  title={Bluewave: enabling opportunistic context sharing via bluetooth device names},
+  author={de Freitas, Adrian A and Nebeling, Michael and Ranithangam, Akshaye Shreenithi Kirupa Karthikeyan and Yang, Junrui and Dey, Anind K},
+  booktitle={Proceedings of the 8th ACM SIGCHI Symposium on Engineering Interactive Computing Systems},
+  pages={38--49},
+  year={2016},
+  doi = {10.1145/2933242.2933248}
 }
 
 @inproceedings{scenariot,
-  author = {Huo, Ke and Cao, Yuanzhi and Yoon, Sang Ho and others},
+  author = {Huo, Ke and Cao, Yuanzhi and Yoon, Sang Ho and Xu, Zhuangying and Chen, Guiming and Ramani, Karthik},
   title = {Scenariot: Spatially Mapping Smart Things within Augmented Reality Scenes},
   booktitle = {Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems},
   pages = {1--13},
   date = {2018},
-  doi = {10.1145/3173574.3173943}
+  doi = {10.1145/3173574.3173793}
 }
 
 @article{bleselect,
-  author = {Zhang, Tengxiang and Lan, Zitong and Xu, Chenren and Li, Yanrong and Chen, Yiqiang},
-  title = {{BLEselect}: Gestural {IoT} Device Selection via Bluetooth Angle of Arrival Estimation from Smart Glasses},
-  journaltitle = {Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
-  volume = {6},
-  number = {4},
-  articleno = {198},
-  date = {2023},
+  title={Bleselect: Gestural iot device selection via bluetooth angle of arrival estimation from smart glasses},
+  author={Zhang, Tengxiang and Lan, Zitong and Xu, Chenren and Li, Yanrong and Chen, Yiqiang},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={6},
+  number={4},
+  pages={1--28},
+  year={2023},
+  publisher={ACM New York, NY, USA},
   doi = {10.1145/3569482}
 }
 
@@ -158,7 +195,7 @@
   author = {Kim, Maruchi and Glenn, Antonio and Veluri, Bandhav and Lee, Yunseo and Gebre, Eyoel and Bagaria, Aditya and Patel, Shwetak and Gollakota, Shyamnath},
   title = {{IRIS}: Wireless Ring for Vision-Based Smart Home Interaction},
   booktitle = {Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology},
-  articleno = {114},
+  eid = {114},
   date = {2024},
   doi = {10.1145/3654777.3676327}
 }
@@ -176,7 +213,7 @@
   author = {Kaimoto, Hiroki and Monteiro, Kyzyl and Faridan, Mehrad and Li, Jiatong and Farajian, Samin and Kakehi, Yasuaki and Nakagaki, Ken and Suzuki, Ryo},
   title = {Sketched Reality: Sketching Bi-Directional Interactions Between Virtual and Physical Worlds with {AR} and Actuated Tangible {UI}},
   booktitle = {Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology},
-  articleno = {1},
+  eid = {1},
   date = {2022},
   doi = {10.1145/3526113.3545626}
 }
@@ -185,7 +222,7 @@
   author = {Zhu, Zhengzhe and Liu, Ziyi and Wang, Tianyi and Zhang, Youyou and Qian, Xun and Raja, Pashin Farsak and Villanueva, Ana and Ramani, Karthik},
   title = {{MechARspace}: An Authoring System Enabling Bidirectional Binding of Augmented Reality with Toys in Real-Time},
   booktitle = {Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology},
-  articleno = {50},
+  eid = {50},
   date = {2022},
   doi = {10.1145/3526113.3545668}
 }
@@ -207,7 +244,8 @@
   booktitle={International conference on Ubiquitous Computing},
   pages={160--167},
   year={2002},
-  organization={Springer}
+  organization={Springer},
+  doi={10.1007/3-540-45809-3_12}
 }
 
 @inproceedings{artoolkit_1999,
@@ -266,11 +304,12 @@
 }
 
 @inproceedings{retrovlc,
-  author = {Li, Jiangtao and Liu, Ailin and Shen, Guobin and others},
+  author = {Li, Jiangtao and Liu, Angli and Shen, Guobin and Li, Liqun and Sun, Chao and Zhao, Feng},
   title = {{Retro-VLC}: Enabling Battery-Free Duplex Visible Light Communication for Mobile and {IoT} Applications},
   booktitle = {Proceedings of the 16th International Workshop on Mobile Computing Systems and Applications},
   pages = {21--26},
-  date = {2015}
+  date = {2015},
+  doi = {10.1145/2699343.2699354}
 }
 
 @inproceedings{jacobgaze,
@@ -337,7 +376,7 @@
   author = {B{\^a}ce, Mihai and Lepp{\"a}nen, Teemu and Gomez, Argenis Ramirez and de Gomez, David Gil},
   title = {{ubiGaze}: Ubiquitous Augmented Reality Messaging Using Gaze Gestures},
   booktitle = {SIGGRAPH ASIA 2016 Mobile Graphics and Interactive Applications},
-  articleno = {11},
+  eid = {11},
   date = {2016},
   doi = {10.1145/2999508.2999530}
 }
@@ -363,7 +402,7 @@
 }
 
 @article{gaze_to_object_mapping,
-  author = {Liu, Weichen and Andrade, Gianna},
+  author = {Liu, Weichen and Andrade, Gianna and Schulze, J{\"u}rgen and Courtney, Kelly E.},
   title = {Evaluation of Gaze-to-Object Mapping Algorithms for Use in ``Real-World'' Translatable Neuropsychological Paradigms},
   journaltitle = {Psychology \& Neuroscience},
   volume = {16},
@@ -377,7 +416,7 @@
   author = {Wilson, Ethan and Sendhilnathan, Naveen and Burlingham, Charlie S. and Mansour, Yusuf and Cavin, Robert and Tetali, Sai Deep and Fernandes, Ajoy Savio and Proulx, Michael J.},
   title = {Eye Gaze as a Signal for Conveying User Attention in Contextual {AI} Systems},
   booktitle = {Proceedings of the 2025 Symposium on Eye Tracking Research and Applications},
-  articleno = {119},
+  eid = {119},
   date = {2025},
   doi = {10.1145/3715669.3727349}
 }
@@ -393,6 +432,7 @@
 @online{visionos_interaction,
   author = {{Apple}},
   title = {Get Started with visionOS},
+  date = {2026-09-17},
   url = {https://developer.apple.com/visionos/get-started/},
   urldate = {2026-09-20}
 }
@@ -418,7 +458,7 @@
 }
 
 @article{eegbcisurvey,
-  author = {Abiri, Reza and Borhani, Soheil and Sellers, Eric W. and Jiang, Yang and Zhao, Xiaopeng},
+  author = {Gu, Xiaotong and Cao, Zehong and Jolfaei, Alireza and Xu, Peng and Wu, Dongrui and Jung, Tzyy-Ping and Lin, Chin-Teng},
   title = {{EEG}-Based Brain-Computer Interfaces ({BCIs}): A Survey of Recent Studies on Signal Sensing Technologies and Computational Intelligence Approaches and Their Applications},
   journaltitle = {IEEE/ACM Transactions on Computational Biology and Bioinformatics},
   volume = {18},
@@ -538,7 +578,7 @@
   journaltitle = {Applied Sciences},
   volume = {14},
   number = {1},
-  articleno = {368},
+  eid = {368},
   date = {2024},
   doi = {10.3390/app14010368}
 }
@@ -557,8 +597,9 @@
   author = {Khanna, Parag and Rajabi, Nona and Demir Kanik, Sumeyra U. and Kragic, Danica and Bj{\"o}rkman, M{\r a}rten and Smith, Christian},
   title = {Early Detection of Human Handover Intentions in Human--Robot Collaboration: Comparing {EEG}, Gaze, and Hand Motion},
   journaltitle = {Robotics and Autonomous Systems},
-  articleno = {105244},
-  date = {2025},
+  volume = {196},
+  eid = {105244},
+  date = {2026},
   doi = {10.1016/j.robot.2025.105244}
 }
 
@@ -567,7 +608,18 @@
   title = {Research on Multimodal Interaction Intention Recognition Based on {EEG}, Eye Movement, and Gesture Signals},
   journaltitle = {Scientific Reports},
   volume = {16},
-  articleno = {3834},
+  eid = {3834},
   date = {2026},
   doi = {10.1038/s41598-025-33910-x}
+}
+
+@article{chen2015filter,
+  title={Filter bank canonical correlation analysis for implementing a high-speed SSVEP-based brain--computer interface},
+  author={Chen, Xiaogang and Wang, Yijun and Gao, Shangkai and Jung, Tzyy-Ping and Gao, Xiaorong},
+  journaltitle={Journal of Neural Engineering},
+  volume={12},
+  number={4},
+  pages={046008},
+  year={2015},
+  doi={10.1088/1741-2560/12/4/046008}
 }

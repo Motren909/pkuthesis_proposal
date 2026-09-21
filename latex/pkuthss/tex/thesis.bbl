@@ -19,43 +19,42 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
-    \entry{robot_plan_2021}{online}{}{}
+    \entry{fifteenth_five_year_plan_2026}{online}{}{}
       \name{author}{1}{}{%
-        {{hash=ccb3ede8ddd99ae43345806609ed6929}{%
-           family={{工业和信息化部等十五部门}},
-           familyi={工\bibinitperiod}}}%
+        {{hash=80deb4b404e1f68f97af6078b28defac}{%
+           family={{中华人民共和国国家发展和改革委员会}},
+           familyi={中\bibinitperiod}}}%
       }
       \list{language}{1}{%
         {chinese}%
       }
-      \strng{namehash}{ccb3ede8ddd99ae43345806609ed6929}
-      \strng{fullhash}{ccb3ede8ddd99ae43345806609ed6929}
-      \strng{fullhashraw}{ccb3ede8ddd99ae43345806609ed6929}
-      \strng{bibnamehash}{ccb3ede8ddd99ae43345806609ed6929}
-      \strng{authorbibnamehash}{ccb3ede8ddd99ae43345806609ed6929}
-      \strng{authornamehash}{ccb3ede8ddd99ae43345806609ed6929}
-      \strng{authorfullhash}{ccb3ede8ddd99ae43345806609ed6929}
-      \strng{authorfullhashraw}{ccb3ede8ddd99ae43345806609ed6929}
+      \strng{namehash}{80deb4b404e1f68f97af6078b28defac}
+      \strng{fullhash}{80deb4b404e1f68f97af6078b28defac}
+      \strng{fullhashraw}{80deb4b404e1f68f97af6078b28defac}
+      \strng{bibnamehash}{80deb4b404e1f68f97af6078b28defac}
+      \strng{authorbibnamehash}{80deb4b404e1f68f97af6078b28defac}
+      \strng{authornamehash}{80deb4b404e1f68f97af6078b28defac}
+      \strng{authorfullhash}{80deb4b404e1f68f97af6078b28defac}
+      \strng{authorfullhashraw}{80deb4b404e1f68f97af6078b28defac}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{21}
       \field{langid}{chinese}
-      \field{month}{12}
-      \field{title}{\textquotedblleft{}十四五\textquotedblright{}机器人产业发展规划}
-      \field{urlday}{20}
+      \field{month}{3}
+      \field{title}{中华人民共和国国民经济和社会发展第十五个五年规划纲要}
+      \field{urlday}{22}
       \field{urlmonth}{9}
       \field{urlyear}{2026}
       \field{userf}{zh}
-      \field{year}{2021}
+      \field{year}{2026}
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2021/art_14c785d5a1124f75900363a0f45d9bbe.html
+      \verb https://www.ndrc.gov.cn/fggz/fzzlgh/gjfzgh/202603/U020260317369114704096.pdf
       \endverb
       \verb{url}
-      \verb https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2021/art_14c785d5a1124f75900363a0f45d9bbe.html
+      \verb https://www.ndrc.gov.cn/fggz/fzzlgh/gjfzgh/202603/U020260317369114704096.pdf
       \endverb
     \endentry
     \entry{ai_plus_2025}{online}{}{}
@@ -82,7 +81,7 @@
       \field{day}{21}
       \field{langid}{chinese}
       \field{month}{8}
-      \field{number}{国发〔2025〕11号}
+      \field{note}{国发〔2025〕11号}
       \field{title}{关于深入实施\textquotedblleft{}人工智能+\textquotedblright{}行动的意见}
       \field{urlday}{20}
       \field{urlmonth}{9}
@@ -640,6 +639,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{SIGGRAPH ASIA 2016 Mobile Graphics and Interactive Applications}
+      \field{eid}{11}
       \field{title}{{ubiGaze}: Ubiquitous Augmented Reality Messaging Using Gaze Gestures}
       \field{userf}{en}
       \field{year}{2016}
@@ -755,9 +755,7 @@
       \endverb
     \endentry
     \entry{scenariot}{inproceedings}{}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{3}{}{%
+      \name{author}{6}{}{%
         {{hash=213e3d571ce6a5b7ee271b318cf0faa1}{%
            family={Huo},
            familyi={H\bibinitperiod},
@@ -773,15 +771,30 @@
            familyi={Y\bibinitperiod},
            given={Sang\bibnamedelima Ho},
            giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=20d9b89bb8baf00797ac138de20b1545}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Zhuangying},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=2a64c6f8ff00145bd7580d4452c9b16a}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Guiming},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b430276910c009f6a55cdc6422be2e1d}{%
+           family={Ramani},
+           familyi={R\bibinitperiod},
+           given={Karthik},
+           giveni={K\bibinitperiod}}}%
       }
       \strng{namehash}{ea3a562206c5b6c00fcd8f2bc8bf4c95}
-      \strng{fullhash}{5e9e2a508178bebc4b1db74cef4b2d26}
-      \strng{fullhashraw}{5e9e2a508178bebc4b1db74cef4b2d26}
+      \strng{fullhash}{acabd8d9f2a481f6c7fdb58b207ee87e}
+      \strng{fullhashraw}{acabd8d9f2a481f6c7fdb58b207ee87e}
       \strng{bibnamehash}{5e9e2a508178bebc4b1db74cef4b2d26}
       \strng{authorbibnamehash}{5e9e2a508178bebc4b1db74cef4b2d26}
       \strng{authornamehash}{ea3a562206c5b6c00fcd8f2bc8bf4c95}
-      \strng{authorfullhash}{5e9e2a508178bebc4b1db74cef4b2d26}
-      \strng{authorfullhashraw}{5e9e2a508178bebc4b1db74cef4b2d26}
+      \strng{authorfullhash}{acabd8d9f2a481f6c7fdb58b207ee87e}
+      \strng{authorfullhashraw}{acabd8d9f2a481f6c7fdb58b207ee87e}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
@@ -794,7 +807,7 @@
       \field{pages}{1\bibrangedash 13}
       \range{pages}{13}
       \verb{doi}
-      \verb 10.1145/3173574.3173943
+      \verb 10.1145/3173574.3173793
       \endverb
     \endentry
     \entry{bleselect}{article}{}{}
@@ -825,6 +838,9 @@
            given={Yiqiang},
            giveni={Y\bibinitperiod}}}%
       }
+      \list{publisher}{1}{%
+        {ACM New York, NY, USA}%
+      }
       \strng{namehash}{dfb12a2d450943804372bca99315217c}
       \strng{fullhash}{a782d90d27c59db5965e48038301470c}
       \strng{fullhashraw}{a782d90d27c59db5965e48038301470c}
@@ -839,11 +855,12 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies}
       \field{number}{4}
-      \field{title}{{BLEselect}: Gestural {IoT} Device Selection via Bluetooth Angle of Arrival Estimation from Smart Glasses}
+      \field{title}{Bleselect: Gestural iot device selection via bluetooth angle of arrival estimation from smart glasses}
       \field{userf}{en}
       \field{volume}{6}
       \field{year}{2023}
-      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 28}
+      \range{pages}{28}
       \verb{doi}
       \verb 10.1145/3569482
       \endverb
@@ -904,6 +921,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2025 Symposium on Eye Tracking Research and Applications}
+      \field{eid}{119}
       \field{title}{Eye Gaze as a Signal for Conveying User Attention in Contextual {AI} Systems}
       \field{userf}{en}
       \field{year}{2025}
@@ -965,11 +983,15 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{day}{17}
+      \field{month}{9}
       \field{title}{Get Started with visionOS}
       \field{urlday}{20}
       \field{urlmonth}{9}
       \field{urlyear}{2026}
       \field{userf}{en}
+      \field{year}{2026}
+      \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://developer.apple.com/visionos/get-started/
@@ -1040,7 +1062,7 @@
       \endverb
     \endentry
     \entry{gaze_to_object_mapping}{article}{}{}
-      \name{author}{2}{}{%
+      \name{author}{4}{}{%
         {{hash=56f90a0ccd3787c2d2f7f6917ba429ae}{%
            family={Liu},
            familyi={L\bibinitperiod},
@@ -1051,15 +1073,25 @@
            familyi={A\bibinitperiod},
            given={Gianna},
            giveni={G\bibinitperiod}}}%
+        {{hash=7ec5380bde633094081b2aa1e908a0c1}{%
+           family={Schulze},
+           familyi={S\bibinitperiod},
+           given={J\"{u}rgen},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d86447e0b6f3e74e473474ad37687932}{%
+           family={Courtney},
+           familyi={C\bibinitperiod},
+           given={Kelly\bibnamedelima E.},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
       }
-      \strng{namehash}{ecdf1e1629f5acd7ea2226790ba701ce}
-      \strng{fullhash}{ecdf1e1629f5acd7ea2226790ba701ce}
-      \strng{fullhashraw}{ecdf1e1629f5acd7ea2226790ba701ce}
-      \strng{bibnamehash}{ecdf1e1629f5acd7ea2226790ba701ce}
-      \strng{authorbibnamehash}{ecdf1e1629f5acd7ea2226790ba701ce}
-      \strng{authornamehash}{ecdf1e1629f5acd7ea2226790ba701ce}
-      \strng{authorfullhash}{ecdf1e1629f5acd7ea2226790ba701ce}
-      \strng{authorfullhashraw}{ecdf1e1629f5acd7ea2226790ba701ce}
+      \strng{namehash}{d68d4dd6e86cc3e363796f0ee0631ce9}
+      \strng{fullhash}{c5228d478ba8857348b855bf1a2f9ee0}
+      \strng{fullhashraw}{c5228d478ba8857348b855bf1a2f9ee0}
+      \strng{bibnamehash}{11ad519ac7099072300ca4fc6cc87112}
+      \strng{authorbibnamehash}{11ad519ac7099072300ca4fc6cc87112}
+      \strng{authornamehash}{d68d4dd6e86cc3e363796f0ee0631ce9}
+      \strng{authorfullhash}{c5228d478ba8857348b855bf1a2f9ee0}
+      \strng{authorfullhashraw}{c5228d478ba8857348b855bf1a2f9ee0}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1191,37 +1223,45 @@
       \field{year}{2002}
       \field{pages}{160\bibrangedash 167}
       \range{pages}{8}
+      \verb{doi}
+      \verb 10.1007/3-540-45809-3_12
+      \endverb
     \endentry
     \entry{infoled}{inproceedings}{}{}
       \name{author}{2}{}{%
-        {{hash=565abea705fd31eae36c411a651a5211}{%
+        {{hash=7454542b435f47fad421889987e50c47}{%
            family={Yang},
            familyi={Y\bibinitperiod},
-           given={Jackie\bibnamedelima Junrui},
-           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+           given={Jackie\bibnamedelima (Junrui)},
+           giveni={J\bibinitperiod\bibinitdelim (\bibinitperiod}}}%
         {{hash=25130e7fafa6347d52f24b506010e915}{%
            family={Landay},
            familyi={L\bibinitperiod},
-           given={James\bibnamedelima A},
+           given={James\bibnamedelima A.},
            giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
-      \strng{namehash}{ff700ecdf2daa74f6b595015161e698e}
-      \strng{fullhash}{ff700ecdf2daa74f6b595015161e698e}
-      \strng{fullhashraw}{ff700ecdf2daa74f6b595015161e698e}
-      \strng{bibnamehash}{ff700ecdf2daa74f6b595015161e698e}
-      \strng{authorbibnamehash}{ff700ecdf2daa74f6b595015161e698e}
-      \strng{authornamehash}{ff700ecdf2daa74f6b595015161e698e}
-      \strng{authorfullhash}{ff700ecdf2daa74f6b595015161e698e}
-      \strng{authorfullhashraw}{ff700ecdf2daa74f6b595015161e698e}
+      \strng{namehash}{1ee1fa3b415489ba3ca885ad3aec5f1d}
+      \strng{fullhash}{1ee1fa3b415489ba3ca885ad3aec5f1d}
+      \strng{fullhashraw}{1ee1fa3b415489ba3ca885ad3aec5f1d}
+      \strng{bibnamehash}{1ee1fa3b415489ba3ca885ad3aec5f1d}
+      \strng{authorbibnamehash}{1ee1fa3b415489ba3ca885ad3aec5f1d}
+      \strng{authornamehash}{1ee1fa3b415489ba3ca885ad3aec5f1d}
+      \strng{authorfullhash}{1ee1fa3b415489ba3ca885ad3aec5f1d}
+      \strng{authorfullhashraw}{1ee1fa3b415489ba3ca885ad3aec5f1d}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the ACM Symposium on User Interface Software and Technology}
+      \field{booktitle}{Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology}
       \field{title}{InfoLED: Augmenting LED Indicator Lights for Device Positioning and Communication}
       \field{userf}{en}
       \field{year}{2019}
       \field{dateera}{ce}
+      \field{pages}{175\bibrangedash 187}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1145/3332165.3347954
+      \endverb
     \endentry
     \entry{lightanchors}{inproceedings}{}{}
       \name{author}{5}{}{%
@@ -1428,33 +1468,46 @@
       \endverb
     \endentry
     \entry{retrovlc}{inproceedings}{}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{3}{}{%
+      \name{author}{6}{}{%
         {{hash=f85e13b55075ecfcb977908c87e4bd0a}{%
            family={Li},
            familyi={L\bibinitperiod},
            given={Jiangtao},
            giveni={J\bibinitperiod}}}%
-        {{hash=a93d1cb2c628c3bb98cd3abcbf7621c9}{%
+        {{hash=7c698293d50d36d8953587f36d38bbdf}{%
            family={Liu},
            familyi={L\bibinitperiod},
-           given={Ailin},
+           given={Angli},
            giveni={A\bibinitperiod}}}%
         {{hash=cd6079517c6ad71a13e488ad3be1e85d}{%
            family={Shen},
            familyi={S\bibinitperiod},
            given={Guobin},
            giveni={G\bibinitperiod}}}%
+        {{hash=aff1d4e533066284d27b1c2ef9d48ee2}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Liqun},
+           giveni={L\bibinitperiod}}}%
+        {{hash=66532e95d3186bb13ada8096abddf41d}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Chao},
+           giveni={C\bibinitperiod}}}%
+        {{hash=bb86c6a67d0b873b7f2ef7defe046268}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
       }
       \strng{namehash}{9e0109b0737ce47f64a21bfb26815f6c}
-      \strng{fullhash}{a0a70a8c7d601f945ff004afc4116f29}
-      \strng{fullhashraw}{a0a70a8c7d601f945ff004afc4116f29}
-      \strng{bibnamehash}{a0a70a8c7d601f945ff004afc4116f29}
-      \strng{authorbibnamehash}{a0a70a8c7d601f945ff004afc4116f29}
+      \strng{fullhash}{ad98d72a1fb35415dc655a4c0be13876}
+      \strng{fullhashraw}{ad98d72a1fb35415dc655a4c0be13876}
+      \strng{bibnamehash}{9ccfd8123b4a08411d90eacf9f7cedad}
+      \strng{authorbibnamehash}{9ccfd8123b4a08411d90eacf9f7cedad}
       \strng{authornamehash}{9e0109b0737ce47f64a21bfb26815f6c}
-      \strng{authorfullhash}{a0a70a8c7d601f945ff004afc4116f29}
-      \strng{authorfullhashraw}{a0a70a8c7d601f945ff004afc4116f29}
+      \strng{authorfullhash}{ad98d72a1fb35415dc655a4c0be13876}
+      \strng{authorfullhashraw}{ad98d72a1fb35415dc655a4c0be13876}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -1466,84 +1519,123 @@
       \field{dateera}{ce}
       \field{pages}{21\bibrangedash 26}
       \range{pages}{6}
+      \verb{doi}
+      \verb 10.1145/2699343.2699354
+      \endverb
     \endentry
     \entry{passivevlc}{inproceedings}{}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{3}{}{%
-        {{hash=5be6d0ab3191e4f23b85299fcf0d4e5e}{%
+      \name{author}{7}{}{%
+        {{hash=1c1986bc462eb8c467adee99489f7fc7}{%
            family={Xu},
            familyi={X\bibinitperiod},
-           given={Xuhai},
+           given={Xieyang},
            giveni={X\bibinitperiod}}}%
-        {{hash=c683dca86043405be8fb1d3009bc1604}{%
+        {{hash=2eaf1ac8cedab60ffc1cc6e343e757df}{%
            family={Shen},
            familyi={S\bibinitperiod},
-           given={Y},
+           given={Yang},
            giveni={Y\bibinitperiod}}}%
-        {{hash=51e5fb9f55c5b5d1edb17aea3861c908}{%
+        {{hash=96f998a3a1ac378247c90aa18b5b463c}{%
            family={Yang},
            familyi={Y\bibinitperiod},
-           given={J},
+           given={Junrui},
            giveni={J\bibinitperiod}}}%
+        {{hash=670efc413bad1000e0141761ad5add7c}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Chenren},
+           giveni={C\bibinitperiod}}}%
+        {{hash=cd6079517c6ad71a13e488ad3be1e85d}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Guobin},
+           giveni={G\bibinitperiod}}}%
+        {{hash=91c711db47b062d3d404fb70ba4eb10a}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Guojun},
+           giveni={G\bibinitperiod}}}%
+        {{hash=382a8143e5c7e5826e576cf082a76923}{%
+           family={Ni},
+           familyi={N\bibinitperiod},
+           given={Yunzhe},
+           giveni={Y\bibinitperiod}}}%
       }
-      \strng{namehash}{83d9d45d3ad197ead3103ea49eec2c1d}
-      \strng{fullhash}{66933a6300800b34b0e1f601ddfe57fe}
-      \strng{fullhashraw}{66933a6300800b34b0e1f601ddfe57fe}
-      \strng{bibnamehash}{66933a6300800b34b0e1f601ddfe57fe}
-      \strng{authorbibnamehash}{66933a6300800b34b0e1f601ddfe57fe}
-      \strng{authornamehash}{83d9d45d3ad197ead3103ea49eec2c1d}
-      \strng{authorfullhash}{66933a6300800b34b0e1f601ddfe57fe}
-      \strng{authorfullhashraw}{66933a6300800b34b0e1f601ddfe57fe}
+      \strng{namehash}{e7bc30cb8fb57beed468a7915187fb6a}
+      \strng{fullhash}{85a349bb7c7f6743f919f1e7b799de93}
+      \strng{fullhashraw}{85a349bb7c7f6743f919f1e7b799de93}
+      \strng{bibnamehash}{f907a81ef7a457f57ec2ace855e7e8e3}
+      \strng{authorbibnamehash}{f907a81ef7a457f57ec2ace855e7e8e3}
+      \strng{authornamehash}{e7bc30cb8fb57beed468a7915187fb6a}
+      \strng{authorfullhash}{85a349bb7c7f6743f919f1e7b799de93}
+      \strng{authorfullhashraw}{85a349bb7c7f6743f919f1e7b799de93}
       \field{extraname}{1}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of ACM MobiCom}
+      \field{booktitle}{Proceedings of the 23rd Annual International Conference on Mobile Computing and Networking}
       \field{title}{PassiveVLC: Enabling Practical Visible Light Backscatter Communication for Battery-free IoT Applications}
       \field{userf}{en}
       \field{year}{2017}
       \field{dateera}{ce}
+      \field{pages}{180\bibrangedash 192}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1145/3117811.3117843
+      \endverb
     \endentry
     \entry{turboboost}{inproceedings}{}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{3}{}{%
-        {{hash=c84333257e5fef7e25ef4f7a4111077c}{%
+      \name{author}{5}{}{%
+        {{hash=5054d8715f6746af9ed28c566f168046}{%
            family={Wu},
            familyi={W\bibinitperiod},
-           given={Y},
+           given={Yue},
            giveni={Y\bibinitperiod}}}%
-        {{hash=f94399510b1be6d7fab7d889d00b68d8}{%
+        {{hash=06a109e21d164b8010e22de743475ba8}{%
            family={Wang},
            familyi={W\bibinitperiod},
-           given={P},
+           given={Purui},
            giveni={P\bibinitperiod}}}%
-        {{hash=b4dc68630a2cfa03b727ed6c81449837}{%
+        {{hash=fe12fdc7b2e2c442309cc96fad4a5f54}{%
            family={Xu},
            familyi={X\bibinitperiod},
-           given={K},
+           given={Kenuo},
            giveni={K\bibinitperiod}}}%
+        {{hash=76f4bef2650e7e1502dff0fe391b95f0}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Lilei},
+           giveni={L\bibinitperiod}}}%
+        {{hash=670efc413bad1000e0141761ad5add7c}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Chenren},
+           giveni={C\bibinitperiod}}}%
       }
-      \strng{namehash}{e66cb4446ecc2270b04a4b878e22bbf0}
-      \strng{fullhash}{e3e17fafb6a2552e911e49665b252d8f}
-      \strng{fullhashraw}{e3e17fafb6a2552e911e49665b252d8f}
-      \strng{bibnamehash}{e3e17fafb6a2552e911e49665b252d8f}
-      \strng{authorbibnamehash}{e3e17fafb6a2552e911e49665b252d8f}
-      \strng{authornamehash}{e66cb4446ecc2270b04a4b878e22bbf0}
-      \strng{authorfullhash}{e3e17fafb6a2552e911e49665b252d8f}
-      \strng{authorfullhashraw}{e3e17fafb6a2552e911e49665b252d8f}
+      \strng{namehash}{77aa4285bb0660bf6222f13bc03c3431}
+      \strng{fullhash}{331009337aa2080582f17e8480b5075e}
+      \strng{fullhashraw}{331009337aa2080582f17e8480b5075e}
+      \strng{bibnamehash}{ff2903f7b5548b371f380d4d7e9f2c77}
+      \strng{authorbibnamehash}{ff2903f7b5548b371f380d4d7e9f2c77}
+      \strng{authornamehash}{77aa4285bb0660bf6222f13bc03c3431}
+      \strng{authorfullhash}{331009337aa2080582f17e8480b5075e}
+      \strng{authorfullhashraw}{331009337aa2080582f17e8480b5075e}
       \field{extraname}{1}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of ACM SIGCOMM}
+      \field{booktitle}{Proceedings of the Annual Conference of the ACM Special Interest Group on Data Communication on the Applications, Technologies, Architectures, and Protocols for Computer Communication}
       \field{title}{TurboBoosting Visible Light Backscatter Communication}
       \field{userf}{en}
       \field{year}{2020}
       \field{dateera}{ce}
+      \field{pages}{186\bibrangedash 197}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1145/3387514.3406229
+      \endverb
     \endentry
     \entry{hybrid_lifi_wifi}{article}{}{}
       \name{author}{5}{}{%
@@ -1601,39 +1693,44 @@
     \endentry
     \entry{pixnet}{inproceedings}{}{}
       \name{author}{3}{}{%
-        {{hash=86dcb45a892bc8ccb019b7a4e11bf129}{%
+        {{hash=07c147c47ecffd5199371550041704b9}{%
            family={Perli},
            familyi={P\bibinitperiod},
-           given={S\bibnamedelima D},
+           given={Samuel\bibnamedelima David},
            giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=3d67e0d64db171fe3d0316da574ba45d}{%
+        {{hash=2977bdb0068b906a2a89ffb49c3f0c9a}{%
            family={Ahmed},
            familyi={A\bibinitperiod},
-           given={N},
+           given={Nabeel},
            giveni={N\bibinitperiod}}}%
-        {{hash=85582d9eec46bba30a1f9efd15573c05}{%
+        {{hash=6e0ce061f94814a53a3c36cd68ac70ab}{%
            family={Katabi},
            familyi={K\bibinitperiod},
-           given={D},
+           given={Dina},
            giveni={D\bibinitperiod}}}%
       }
-      \strng{namehash}{50c2a64e68a35943f5c3af06eb44ba41}
-      \strng{fullhash}{480739f30cf77ccacb67dbaa1905e6c9}
-      \strng{fullhashraw}{480739f30cf77ccacb67dbaa1905e6c9}
-      \strng{bibnamehash}{480739f30cf77ccacb67dbaa1905e6c9}
-      \strng{authorbibnamehash}{480739f30cf77ccacb67dbaa1905e6c9}
-      \strng{authornamehash}{50c2a64e68a35943f5c3af06eb44ba41}
-      \strng{authorfullhash}{480739f30cf77ccacb67dbaa1905e6c9}
-      \strng{authorfullhashraw}{480739f30cf77ccacb67dbaa1905e6c9}
+      \strng{namehash}{a72a84f7009b62aa34a617a0c97d22c7}
+      \strng{fullhash}{6c6f1b2714761875e2b06995018481ff}
+      \strng{fullhashraw}{6c6f1b2714761875e2b06995018481ff}
+      \strng{bibnamehash}{6c6f1b2714761875e2b06995018481ff}
+      \strng{authorbibnamehash}{6c6f1b2714761875e2b06995018481ff}
+      \strng{authornamehash}{a72a84f7009b62aa34a617a0c97d22c7}
+      \strng{authorfullhash}{6c6f1b2714761875e2b06995018481ff}
+      \strng{authorfullhashraw}{6c6f1b2714761875e2b06995018481ff}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of ACM MobiCom}
+      \field{booktitle}{Proceedings of the 16th Annual International Conference on Mobile Computing and Networking}
       \field{title}{PixNet: Interference-free Wireless Links Using LCD-camera Pairs}
       \field{userf}{en}
       \field{year}{2010}
       \field{dateera}{ce}
+      \field{pages}{137\bibrangedash 148}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1145/1859995.1860012
+      \endverb
     \endentry
     \entry{retromumimo}{inproceedings}{}{}
       \name{author}{7}{}{%
@@ -2129,11 +2226,11 @@
       \endverb
     \endentry
     \entry{bluewave}{inproceedings}{}{}
-      \name{author}{4}{}{%
+      \name{author}{5}{}{%
         {{hash=7c1882701304844732b978f2487c2e14}{%
            family={Freitas},
            familyi={F\bibinitperiod},
-           given={Adrian\bibnamedelima A.},
+           given={Adrian\bibnamedelima A},
            giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
            prefix={de},
            prefixi={d\bibinitperiod}}}%
@@ -2142,37 +2239,44 @@
            familyi={N\bibinitperiod},
            given={Michael},
            giveni={M\bibinitperiod}}}%
-        {{hash=864bd2f0c126b622e3eadef8d6e78e28}{%
+        {{hash=b0fcdf81630bcb1b78acfcb4c5146bc5}{%
            family={Ranithangam},
            familyi={R\bibinitperiod},
-           given={Akshaye\bibnamedelimb Shreenithi\bibnamedelimb Kirupa\bibnamedelima Karrie},
+           given={Akshaye\bibnamedelimb Shreenithi\bibnamedelimb Kirupa\bibnamedelima Karthikeyan},
            giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=96f998a3a1ac378247c90aa18b5b463c}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Junrui},
+           giveni={J\bibinitperiod}}}%
         {{hash=383a958e7dc63d5a57bbeec2a4e3ac93}{%
            family={Dey},
            familyi={D\bibinitperiod},
-           given={Anind\bibnamedelima K.},
+           given={Anind\bibnamedelima K},
            giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
       }
       \strng{namehash}{a8a68e1f4dfd46e7472db16ea2257f3a}
-      \strng{fullhash}{2757b25e35e9ecbaa77fcd29f9d2215f}
-      \strng{fullhashraw}{2757b25e35e9ecbaa77fcd29f9d2215f}
-      \strng{bibnamehash}{88af446568ef5fd1ce4582f011b81848}
-      \strng{authorbibnamehash}{88af446568ef5fd1ce4582f011b81848}
+      \strng{fullhash}{87c3053d6af423a77a136a43c0fa777f}
+      \strng{fullhashraw}{87c3053d6af423a77a136a43c0fa777f}
+      \strng{bibnamehash}{ce286456597b7307aadd7040f5d9d6bf}
+      \strng{authorbibnamehash}{ce286456597b7307aadd7040f5d9d6bf}
       \strng{authornamehash}{a8a68e1f4dfd46e7472db16ea2257f3a}
-      \strng{authorfullhash}{2757b25e35e9ecbaa77fcd29f9d2215f}
-      \strng{authorfullhashraw}{2757b25e35e9ecbaa77fcd29f9d2215f}
+      \strng{authorfullhash}{87c3053d6af423a77a136a43c0fa777f}
+      \strng{authorfullhashraw}{87c3053d6af423a77a136a43c0fa777f}
       \field{extraname}{2}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 8th ACM SIGCHI Symposium on Engineering Interactive Computing Systems}
-      \field{title}{Bluewave: Enabling Opportunistic Context Sharing via Bluetooth Device Names}
+      \field{title}{Bluewave: enabling opportunistic context sharing via bluetooth device names}
       \field{userf}{en}
       \field{year}{2016}
-      \field{dateera}{ce}
       \field{pages}{38\bibrangedash 49}
       \range{pages}{12}
+      \verb{doi}
+      \verb 10.1145/2933242.2933248
+      \endverb
     \endentry
     \entry{iris}{inproceedings}{}{}
       \name{author}{8}{}{%
@@ -2230,6 +2334,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology}
+      \field{eid}{114}
       \field{title}{{IRIS}: Wireless Ring for Vision-Based Smart Home Interaction}
       \field{userf}{en}
       \field{year}{2024}
@@ -2330,6 +2435,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology}
+      \field{eid}{1}
       \field{title}{Sketched Reality: Sketching Bi-Directional Interactions Between Virtual and Physical Worlds with {AR} and Actuated Tangible {UI}}
       \field{userf}{en}
       \field{year}{2022}
@@ -2395,6 +2501,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology}
+      \field{eid}{50}
       \field{title}{{MechARspace}: An Authoring System Enabling Bidirectional Binding of Augmented Reality with Toys in Real-Time}
       \field{userf}{en}
       \field{year}{2022}
@@ -2487,6 +2594,58 @@
       \verb 10.1016/0013-4694(88)90149-6
       \endverb
     \endentry
+    \entry{chen2015filter}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=5c254500e19d5a78c3d5a502e541528f}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xiaogang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=7a566ae0f28e0eb3ca5a86711611b2c6}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yijun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5b30c8aab73ca24786b1817893f677e3}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Shangkai},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0867f58a755f5e9b488fd287e06722d7}{%
+           family={Jung},
+           familyi={J\bibinitperiod},
+           given={Tzyy-Ping},
+           giveni={T\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=b77c71e31051b470efc05d6a173ad735}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Xiaorong},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{be0e8a5db7baf5baf8a3fe69a8f45e98}
+      \strng{fullhash}{0a3095a9923db7134f7ece17746e4187}
+      \strng{fullhashraw}{0a3095a9923db7134f7ece17746e4187}
+      \strng{bibnamehash}{2fa9d9474b8202923235850ddb3e3325}
+      \strng{authorbibnamehash}{2fa9d9474b8202923235850ddb3e3325}
+      \strng{authornamehash}{be0e8a5db7baf5baf8a3fe69a8f45e98}
+      \strng{authorfullhash}{0a3095a9923db7134f7ece17746e4187}
+      \strng{authorfullhashraw}{0a3095a9923db7134f7ece17746e4187}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Neural Engineering}
+      \field{number}{4}
+      \field{title}{Filter bank canonical correlation analysis for implementing a high-speed SSVEP-based brain--computer interface}
+      \field{userf}{en}
+      \field{volume}{12}
+      \field{year}{2015}
+      \field{pages}{046008}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1741-2560/12/4/046008
+      \endverb
+    \endentry
     \entry{visualauditorybci}{article}{}{}
       \name{author}{4}{}{%
         {{hash=5b30c8aab73ca24786b1817893f677e3}{%
@@ -2518,8 +2677,8 @@
       \strng{authornamehash}{5d1b7ad0744a582a0c1f4333224fcfff}
       \strng{authorfullhash}{41c7cfaf71160d2e3600dfc159609b15}
       \strng{authorfullhashraw}{41c7cfaf71160d2e3600dfc159609b15}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Transactions on Biomedical Engineering}
@@ -2560,6 +2719,7 @@
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{eid}{368}
       \field{journaltitle}{Applied Sciences}
       \field{number}{1}
       \field{title}{Human--Computer Interaction Multi-Task Modeling Based on Implicit Intent {EEG} Decoding}
@@ -2572,41 +2732,51 @@
       \endverb
     \endentry
     \entry{eegbcisurvey}{article}{}{}
-      \name{author}{5}{}{%
-        {{hash=8933c24d3498d34061d028e460a62eee}{%
-           family={Abiri},
-           familyi={A\bibinitperiod},
-           given={Reza},
-           giveni={R\bibinitperiod}}}%
-        {{hash=a4a62ebd476739e1413e760cf8b4f9d0}{%
-           family={Borhani},
-           familyi={B\bibinitperiod},
-           given={Soheil},
-           giveni={S\bibinitperiod}}}%
-        {{hash=5b69197ef10aae3f9257a98321f07867}{%
-           family={Sellers},
-           familyi={S\bibinitperiod},
-           given={Eric\bibnamedelima W.},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-        {{hash=6bfb39e356009290d1927dc8a76657be}{%
-           family={Jiang},
-           familyi={J\bibinitperiod},
-           given={Yang},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=8d9948a8ffb9aed66d43c1da786d38fa}{%
-           family={Zhao},
-           familyi={Z\bibinitperiod},
-           given={Xiaopeng},
+      \name{author}{7}{}{%
+        {{hash=abe43b998b2e18ed192dfd17762ef3a1}{%
+           family={Gu},
+           familyi={G\bibinitperiod},
+           given={Xiaotong},
            giveni={X\bibinitperiod}}}%
+        {{hash=dac5f44d214dab36e01a21716c20652c}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Zehong},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=1d21ab2e69d4026c9188d6ddfaefda20}{%
+           family={Jolfaei},
+           familyi={J\bibinitperiod},
+           given={Alireza},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a9f1e89449a8f9e0a4b65ee24d8f421d}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c9aa09badf277b5cb17d650974fb680a}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Dongrui},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0867f58a755f5e9b488fd287e06722d7}{%
+           family={Jung},
+           familyi={J\bibinitperiod},
+           given={Tzyy-Ping},
+           giveni={T\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=3dd29ec2da7d2e2e1c513a1317109904}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Chin-Teng},
+           giveni={C\bibinithyphendelim T\bibinitperiod}}}%
       }
-      \strng{namehash}{b0e170e071c26dd4593357738394846b}
-      \strng{fullhash}{080b5c0ec5aa67bb865f08993cd40a49}
-      \strng{fullhashraw}{080b5c0ec5aa67bb865f08993cd40a49}
-      \strng{bibnamehash}{1e44e624bc07c47b80907c33e2ac516d}
-      \strng{authorbibnamehash}{1e44e624bc07c47b80907c33e2ac516d}
-      \strng{authornamehash}{b0e170e071c26dd4593357738394846b}
-      \strng{authorfullhash}{080b5c0ec5aa67bb865f08993cd40a49}
-      \strng{authorfullhashraw}{080b5c0ec5aa67bb865f08993cd40a49}
+      \strng{namehash}{140d15177320674e240dadff612c14df}
+      \strng{fullhash}{423a48a45b38d7b52bd8427dfd595d97}
+      \strng{fullhashraw}{423a48a45b38d7b52bd8427dfd595d97}
+      \strng{bibnamehash}{14a5a0f8783c7c9972d5a88bf4c5a86d}
+      \strng{authorbibnamehash}{14a5a0f8783c7c9972d5a88bf4c5a86d}
+      \strng{authornamehash}{140d15177320674e240dadff612c14df}
+      \strng{authorfullhash}{423a48a45b38d7b52bd8427dfd595d97}
+      \strng{authorfullhashraw}{423a48a45b38d7b52bd8427dfd595d97}
       \field{sortinit}{7}
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
@@ -2775,10 +2945,12 @@
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{eid}{105244}
       \field{journaltitle}{Robotics and Autonomous Systems}
       \field{title}{Early Detection of Human Handover Intentions in Human--Robot Collaboration: Comparing {EEG}, Gaze, and Hand Motion}
       \field{userf}{en}
-      \field{year}{2025}
+      \field{volume}{196}
+      \field{year}{2026}
       \field{dateera}{ce}
       \verb{doi}
       \verb 10.1016/j.robot.2025.105244
@@ -2820,6 +2992,7 @@
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{eid}{3834}
       \field{journaltitle}{Scientific Reports}
       \field{title}{Research on Multimodal Interaction Intention Recognition Based on {EEG}, Eye Movement, and Gesture Signals}
       \field{userf}{en}
