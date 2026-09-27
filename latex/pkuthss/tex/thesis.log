@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.18)  28 SEP 2026 00:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.18)  28 SEP 2026 00:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1602,37 +1602,37 @@ Underfull \vbox (badness 1178) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [20]
-<figs/retroar_teaser.jpg, id=800, 340.983pt x 137.6415pt>
+<figs/retroar_teaser.jpg, id=799, 340.983pt x 137.6415pt>
 File: figs/retroar_teaser.jpg Graphic file (type jpg)
 <use figs/retroar_teaser.jpg>
 Package pdftex.def Info: figs/retroar_teaser.jpg  used on input line 26.
 (pdftex.def)             Requested size: 427.07419pt x 172.39796pt.
  [21 <./figs/retroar_teaser.jpg>] [22]
-<figs/retroar_hardware.png, id=816, 655.248pt x 330.471pt>
+<figs/retroar_hardware.png, id=814, 655.248pt x 330.471pt>
 File: figs/retroar_hardware.png Graphic file (type png)
 <use figs/retroar_hardware.png>
 Package pdftex.def Info: figs/retroar_hardware.png  used on input line 53.
 (pdftex.def)             Requested size: 427.07419pt x 215.3986pt.
  [23 <./figs/retroar_hardware.png>]
-<figs/retroar_coding.png, id=828, 226.008pt x 267.837pt>
+<figs/retroar_coding.png, id=826, 226.008pt x 267.837pt>
 File: figs/retroar_coding.png Graphic file (type png)
 <use figs/retroar_coding.png>
 Package pdftex.def Info: figs/retroar_coding.png  used on input line 69.
 (pdftex.def)             Requested size: 314.68588pt x 372.93806pt.
  [24 <./figs/retroar_coding.png>]
-<figs/retroar_pipeline.png, id=836, 234.987pt x 359.817pt>
+<figs/retroar_pipeline.png, id=834, 234.987pt x 359.817pt>
 File: figs/retroar_pipeline.png Graphic file (type png)
 <use figs/retroar_pipeline.png>
 Package pdftex.def Info: figs/retroar_pipeline.png  used on input line 85.
 (pdftex.def)             Requested size: 314.68588pt x 481.88873pt.
  [25] [26 <./figs/retroar_pipeline.png>]
-<figs/retroar_system_eval.png, id=851, 464.061pt x 128.115pt>
+<figs/retroar_system_eval.png, id=849, 464.061pt x 128.115pt>
 File: figs/retroar_system_eval.png Graphic file (type png)
 <use figs/retroar_system_eval.png>
 Package pdftex.def Info: figs/retroar_system_eval.png  used on input line 102.
 (pdftex.def)             Requested size: 404.59515pt x 111.70349pt.
  [27 <./figs/retroar_system_eval.png>]
-<figs/retroar_user_study.png, id=860, 337.041pt x 297.402pt>
+<figs/retroar_user_study.png, id=858, 337.041pt x 297.402pt>
 File: figs/retroar_user_study.png Graphic file (type png)
 <use figs/retroar_user_study.png>
 Package pdftex.def Info: figs/retroar_user_study.png  used on input line 119.
@@ -1645,34 +1645,34 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [29 <./figs/retroar_user_study.png>]
-<figs/echosight_teaser.png, id=874, 1974.62718pt x 702.37407pt>
+<figs/echosight_teaser.png, id=872, 1974.62718pt x 702.37407pt>
 File: figs/echosight_teaser.png Graphic file (type png)
 <use figs/echosight_teaser.png>
 Package pdftex.def Info: figs/echosight_teaser.png  used on input line 141.
 (pdftex.def)             Requested size: 427.07419pt x 151.90773pt.
  [30 <./figs/echosight_teaser.png>]
-Underfull \vbox (badness 6428) has occurred while \output is active []
+Underfull \vbox (badness 2564) has occurred while \output is active []
 
  [31]
-<figs/echosight_hardware.png, id=889, 446.322pt x 509.613pt>
+<figs/echosight_hardware.png, id=885, 446.322pt x 509.613pt>
 File: figs/echosight_hardware.png Graphic file (type png)
 <use figs/echosight_hardware.png>
 Package pdftex.def Info: figs/echosight_hardware.png  used on input line 175.
 (pdftex.def)             Requested size: 404.59515pt x 461.97562pt.
  [32] [33 <./figs/echosight_hardware.png>]
-<figs/echosight_alignment.png, id=905, 363.102pt x 405.807pt>
+<figs/echosight_alignment.png, id=901, 363.102pt x 405.807pt>
 File: figs/echosight_alignment.png Graphic file (type png)
 <use figs/echosight_alignment.png>
 Package pdftex.def Info: figs/echosight_alignment.png  used on input line 191.
 (pdftex.def)             Requested size: 269.73466pt x 301.46278pt.
  [34]
-<figs/echosight_workflow.png, id=914, 295.869pt x 236.52pt>
+<figs/echosight_workflow.png, id=910, 295.869pt x 236.52pt>
 File: figs/echosight_workflow.png Graphic file (type png)
 <use figs/echosight_workflow.png>
 Package pdftex.def Info: figs/echosight_workflow.png  used on input line 208.
 (pdftex.def)             Requested size: 404.59515pt x 323.4602pt.
  [35 <./figs/echosight_alignment.png>] [36 <./figs/echosight_workflow.png>]
-<figs/echosight_system_eval.png, id=928, 1017.04968pt x 399.74344pt>
+<figs/echosight_system_eval.png, id=924, 1017.04968pt x 399.74344pt>
 File: figs/echosight_system_eval.png Graphic file (type png)
 <use figs/echosight_system_eval.png>
 Package pdftex.def Info: figs/echosight_system_eval.png  used on input line 227.
@@ -1682,7 +1682,7 @@ Package pdftex.def Info: figs/echosight_system_eval.png  used on input line 227.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [37] [38 <./figs/echosight_system_eval.png>]
-<figs/echosight_user_study.png, id=940, 374.709pt x 507.204pt>
+<figs/echosight_user_study.png, id=936, 374.709pt x 507.204pt>
 File: figs/echosight_user_study.png Graphic file (type png)
 <use figs/echosight_user_study.png>
 Package pdftex.def Info: figs/echosight_user_study.png  used on input line 247.
@@ -1743,18 +1743,18 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40066 strings out of 467099
- 786178 string characters out of 5405062
- 1578983 words of memory out of 5000000
- 67937 multiletter control sequences out of 15000+600000
+ 40054 strings out of 467099
+ 785670 string characters out of 5405062
+ 1578758 words of memory out of 5000000
+ 67927 multiletter control sequences out of 15000+600000
  791571 words of font info for 561 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  123i,12n,121p,2052b,1550s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><d:/Program Files/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/Program Files/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/Program Files/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/Program Files/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/Program Files/texlive/2026/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><d:/Program Files/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><d:/Program Files/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><d:/Program Files/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (61 pages, 20447064 bytes).
+Output written on thesis.pdf (61 pages, 20446609 bytes).
 PDF statistics:
- 1793 PDF objects out of 2073 (max. 8388607)
- 1362 compressed objects within 14 object streams
- 210 named destinations out of 1000 (max. 500000)
+ 1789 PDF objects out of 2073 (max. 8388607)
+ 1358 compressed objects within 14 object streams
+ 208 named destinations out of 1000 (max. 500000)
  806 words of extra memory for PDF output out of 10000 (max. 10000000)
 
