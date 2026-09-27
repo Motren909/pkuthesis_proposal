@@ -1508,6 +1508,7 @@
       \strng{authornamehash}{9e0109b0737ce47f64a21bfb26815f6c}
       \strng{authorfullhash}{ad98d72a1fb35415dc655a4c0be13876}
       \strng{authorfullhashraw}{ad98d72a1fb35415dc655a4c0be13876}
+      \field{extraname}{1}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -3001,6 +3002,144 @@
       \field{dateera}{ce}
       \verb{doi}
       \verb 10.1038/s41598-025-33910-x
+      \endverb
+    \endentry
+    \entry{retroar_2024}{article}{}{}
+      \name{author}{10}{}{%
+        {{hash=bff6a3005609a584433f086c631a758f}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jingyu},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a52efeba00e1352359e1fa7b3365205e}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Tuochao},
+           giveni={T\bibinitperiod}}}%
+        {{hash=02a0beb74af5d045fa854a1a9db03676}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Mingzhe},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5be6d0ab3191e4f23b85299fcf0d4e5e}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Xuhai},
+           giveni={X\bibinitperiod}}}%
+        {{hash=57f7f0240f141850db99567185d1a24c}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Cheng},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e784254aa04c4ad80c3c95c11e092431}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Zichen},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=79882c057d27c79425483ff1e0ff8f15}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xuanzhe},
+           giveni={X\bibinitperiod}}}%
+        {{hash=eceeccf5f93a11a9884d05482e4557c4}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Gang},
+           giveni={G\bibinitperiod}}}%
+        {{hash=21a7a88b31abefa1419144a91cdbaa9d}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Yun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=670efc413bad1000e0141761ad5add7c}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Chenren},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{c8c13d90dab2c018fefbc0c0ab97d05e}
+      \strng{fullhash}{4252e14dc4b22ddace02706ffe15e338}
+      \strng{fullhashraw}{4252e14dc4b22ddace02706ffe15e338}
+      \strng{bibnamehash}{81e410a37cefc0ca8deb211e9ace8af3}
+      \strng{authorbibnamehash}{81e410a37cefc0ca8deb211e9ace8af3}
+      \strng{authornamehash}{c8c13d90dab2c018fefbc0c0ab97d05e}
+      \strng{authorfullhash}{4252e14dc4b22ddace02706ffe15e338}
+      \strng{authorfullhashraw}{4252e14dc4b22ddace02706ffe15e338}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Electronica Sinica}
+      \field{langid}{english}
+      \field{number}{11}
+      \field{title}{Directional Interaction for Mobile Augmented Reality Based on Visible Light Backscatter Communication}
+      \field{userf}{en}
+      \field{volume}{52}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{3643\bibrangedash 3656}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.12263/DZXB.20220677
+      \endverb
+    \endentry
+    \entry{echosight_2025}{inproceedings}{}{}
+      \name{author}{5}{}{%
+        {{hash=bff6a3005609a584433f086c631a758f}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jingyu},
+           giveni={J\bibinitperiod}}}%
+        {{hash=740735442d6653cc1c7bdb0ddc867a19}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Qingwen},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=fe12fdc7b2e2c442309cc96fad4a5f54}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Kenuo},
+           giveni={K\bibinitperiod}}}%
+        {{hash=e760d38078aff4a5b24c867aa5178c26}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=670efc413bad1000e0141761ad5add7c}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Chenren},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Yokohama, Japan}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{c8c13d90dab2c018fefbc0c0ab97d05e}
+      \strng{fullhash}{fdcbe43ed88318beb6105e3ce58e16d2}
+      \strng{fullhashraw}{fdcbe43ed88318beb6105e3ce58e16d2}
+      \strng{bibnamehash}{0d01af9dd90fbfcb5d70785e4e5449cc}
+      \strng{authorbibnamehash}{0d01af9dd90fbfcb5d70785e4e5449cc}
+      \strng{authornamehash}{c8c13d90dab2c018fefbc0c0ab97d05e}
+      \strng{authorfullhash}{fdcbe43ed88318beb6105e3ce58e16d2}
+      \strng{authorfullhashraw}{fdcbe43ed88318beb6105e3ce58e16d2}
+      \field{extraname}{3}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems}
+      \field{title}{{EchoSight}: Streamlining Bidirectional Virtual--Physical Interaction with In-Situ Optical Tethering}
+      \field{userf}{en}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 18}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1145/3706598.3713925
       \endverb
     \endentry
   \enddatalist

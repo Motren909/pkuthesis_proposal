@@ -2474,6 +2474,15 @@
     <bcf:citekey order="74" intorder="1">yi_hybrid_bci_2024</bcf:citekey>
     <bcf:citekey order="75" intorder="1">khanna_handover_2025</bcf:citekey>
     <bcf:citekey order="76" intorder="1">zhu_multimodal_intent_2026</bcf:citekey>
+    <bcf:citekey order="77" intorder="1">retroar_2024</bcf:citekey>
+    <bcf:citekey order="78" intorder="1">echosight_2025</bcf:citekey>
+    <bcf:citekey order="79" intorder="1">jacobgaze</bcf:citekey>
+    <bcf:citekey order="79" intorder="2">gaze_pinch</bcf:citekey>
+    <bcf:citekey order="80" intorder="1">everydaygaze</bcf:citekey>
+    <bcf:citekey order="80" intorder="2">gaze_to_object_mapping</bcf:citekey>
+    <bcf:citekey order="81" intorder="1">eegbcisurvey</bcf:citekey>
+    <bcf:citekey order="82" intorder="1">wang_eeg_eye_2021</bcf:citekey>
+    <bcf:citekey order="82" intorder="2">khanna_handover_2025</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
